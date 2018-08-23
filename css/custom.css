@@ -273,7 +273,7 @@ section.dark, footer.dark, header.dark {
 	fill: #c3b6a5;
 }
 .light svg.svg-primary.dark, .dark svg.svg-primary, .light .dark svg.svg-primary, svg.svg-primary.dark {
-	fill: #c3b6a5;
+	fill: gold;
 }
 .dark svg.svg-secondary.light, .light svg.svg-secondary, .dark .light svg.svg-secondary, svg.svg-secondary.light {
 	fill: #bbc3cc;
