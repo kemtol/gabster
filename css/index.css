@@ -29,6 +29,10 @@
     color:#fff;
     text-transform:uppercase;
 }
+    #panel-logo-menu ul li a:hover{
+        text-style:none;
+        color:gold;
+    }
 
 #testimonial-carousel-2 .bg {
     background-image: url('../images/bg-58.jpg');
