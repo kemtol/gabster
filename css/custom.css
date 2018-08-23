@@ -264,7 +264,7 @@ section.dark, footer.dark, header.dark {
 	background-color: #A48F77;
 }
 .dark svg.svg-default.light, .light svg.svg-default, .dark .light svg.svg-default, svg.svg-default.light {
-	fill: #555;
+	fill: #000;
 }
 .light svg.svg-default.dark, .dark svg.svg-default, .light .dark svg.svg-default, svg.svg-default.dark {
 	fill: #fff;
