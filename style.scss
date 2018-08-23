@@ -7,8 +7,27 @@
 
 //@import "reset";
 //@import "variables";
-// Syntax highlighting @import is at the bottom of this file
+// overide kemal
 
+#jumbotron{
+  background: #000;
+  h1{
+    color:#fff;
+  }
+  h3{
+    color:gold;
+  }
+  p{
+    font-size: 21px;
+  }  
+  .isometric-btn{
+    background-color: gold !important;
+    color: #111 !important;
+    font-weight: bold;
+    border-color: #fff!important;
+    font-size: 21px;
+  }
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
