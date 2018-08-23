@@ -9,6 +9,12 @@
 //@import "variables";
 // overide kemal
 
+.yellow-btn{
+    background-color: gold !important;
+    color: #111 !important;
+    border-color: #fff!important;
+}
+
 #jumbotron{
   .bg-default{
     background: #000;
