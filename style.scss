@@ -10,7 +10,9 @@
 // overide kemal
 
 #jumbotron{
-  background: #000;
+  .bg-default{
+    background: #000;
+  }
   h1{
     color:#fff;
   }
