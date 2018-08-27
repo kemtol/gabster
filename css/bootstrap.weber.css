@@ -7980,10 +7980,12 @@ svg.icon {
 
 .gallery-item .item-title > *:first-child {
     margin-top: 0;
+	color:#fff;
 }
 
 .gallery-item .item-title > *:last-child {
     margin-bottom: 0;
+	color:#111;
 }
 
 .gallery-item .item-img {
@@ -8141,10 +8143,10 @@ a.image-popup:not(.btn) {
 /*---------------  STYLE 5 ---------------*/
 
 .gallery-item.gallery-style-5 .item-title {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	background:gold;
 }
 
 .gallery-item.gallery-style-5 .item-icon {
