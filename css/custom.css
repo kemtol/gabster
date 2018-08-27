@@ -122,7 +122,7 @@ section.dark, footer.dark, header.dark {
 	color: rgba(255,255,255,0.2);
 }
 .dark .nav-tabs.light, .light .nav-tabs, .dark .light .nav-tabs, .nav-tabs.light {
-	border-color: #D1D7DD;
+	border-color: #fff;
 }
 .light .nav-tabs.dark, .dark .nav-tabs, .light .dark .nav-tabs, .nav-tabs.dark {
 	border-color: rgba(255,255,255,0.2);
