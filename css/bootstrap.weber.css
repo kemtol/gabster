@@ -2639,7 +2639,7 @@ btn-outline-info:active,
 .show > .btn-dark.dropdown-toggle {
     color: #fff !important;
     background-color: #111 !important;
-    border-color: #111 !important;
+    border-color: gold !important;
 }
 
 .btn-outline-dark {
