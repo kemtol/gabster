@@ -60,7 +60,7 @@ section.dark, footer.dark, header.dark {
 	font-size: 35px;
 	font-weight: 300;
 	font-style: normal;
-	color: #444;
+	color: #111;
 }
 .light h3.dark, .dark h3, .light .dark h3, h3.dark {
 	font-family: 'Oswald', sans-serif;
@@ -74,7 +74,7 @@ section.dark, footer.dark, header.dark {
 	font-size: 28px;
 	font-weight: 400;
 	font-style: normal;
-	color: #555;
+	color: #111;
 }
 .light h4.dark, .dark h4, .light .dark h4, h4.dark {
 	font-family: 'Oswald', sans-serif;
