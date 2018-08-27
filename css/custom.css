@@ -270,7 +270,7 @@ section.dark, footer.dark, header.dark {
 	fill: #fff;
 }
 .dark svg.svg-primary.light, .light svg.svg-primary, .dark .light svg.svg-primary, svg.svg-primary.light {
-	fill: #c3b6a5;
+	fill: gold;
 }
 .light svg.svg-primary.dark, .dark svg.svg-primary, .light .dark svg.svg-primary, svg.svg-primary.dark {
 	fill: gold;
