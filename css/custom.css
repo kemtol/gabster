@@ -297,11 +297,11 @@ section.dark, footer.dark, header.dark {
 }
 .dark .owl-prev.light:hover, .light .owl-prev:hover, .dark .light .owl-prev:hover, .owl-prev.light:hover, .dark .owl-next.light:hover, .light .owl-next:hover, .dark .light .owl-next:hover, .owl-next.light:hover {
 	border-color: #444;
-	background-color: #ded8d0;
+	background-color: gold;
 }
 .light .owl-prev.dark:hover, .dark .owl-prev:hover, .light .dark .owl-prev:hover, .owl-prev.dark:hover, .light .owl-next.dark:hover, .dark .owl-next:hover, .light .dark .owl-next:hover, .owl-next.dark:hover {
 	border-color: #fff;
-	background-color: #af9f8c;
+	background-color: gold;
 }
 .dark .owl-dot>span.light, .light .owl-dot>span, .dark .light .owl-dot>span, .owl-dot>span.light {
 	border-color: #D1D7DD;
