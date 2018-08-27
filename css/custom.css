@@ -71,14 +71,14 @@ section.dark, footer.dark, header.dark {
 }
 .dark h4.light, .light h4, .dark .light h4, h4.light {
 	font-family: 'Oswald', sans-serif;
-	font-size: 18px;
+	font-size: 28px;
 	font-weight: 400;
 	font-style: normal;
 	color: #555;
 }
 .light h4.dark, .dark h4, .light .dark h4, h4.dark {
 	font-family: 'Oswald', sans-serif;
-	font-size: 18px;
+	font-size: 28px;
 	font-weight: 400;
 	font-style: normal;
 	color: #fff;
