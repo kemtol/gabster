@@ -10,9 +10,9 @@
 // overide kemal
 
 .yellow-btn{
-    background-color: gold !important;
+    background-color: #FFF303 !important;
     color: #111 !important;
-    border-color: gold !important;
+    border-color: #FFF303 !important;
 }
 
 #jumbotron{
@@ -31,19 +31,24 @@
     }
   }
   h3{
-    color:gold;
+    color:#FFF303;
   }
   p{
     font-size: 21px;
     color:#eee;
   }  
   .isometric-btn{
-    background-color: gold !important;
+    background-color: #FFF303 !important;
     color: #111 !important;
     font-weight: bold;
-    border-color: #fff!important;
+    border-color: #FFF303 !important;
     font-size: 21px;
+    font-family: georgia !important;
   }
+    .isometric-btn:hover{
+        background-color: gold !important;
+        border-color: gold !important;
+    }
 }
 
 .vid-cont {
@@ -56,7 +61,7 @@
 .vid-cont button[name="play"] {
   width: 150px;
   height: 150px;
-  background: gold;
+  background: #FFF303;
   border: none;
   border-radius: 100%;
   margin: auto;
