@@ -347,6 +347,15 @@ section.dark, footer.dark, header.dark {
 .light .text-secondary.dark, .dark .text-secondary, .light .dark .text-secondary, .text-secondary.dark, .light .breadcrumb-item.dark + .breadcrumb-item::before, .dark .breadcrumb-item + .breadcrumb-item::before, .light .dark .breadcrumb-item + .breadcrumb-item::before, .breadcrumb-item.dark + .breadcrumb-item::before, .light .breadcrumb-item.active.dark, .dark .breadcrumb-item.active, .light .dark .breadcrumb-item.active, .breadcrumb-item.active.dark {
 	color: rgba(255,255,255,0.5);
 }
+
+.circle{
+    overflow: hidden;
+    border-radius: 50%;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
 /* end default */
 @media all and (max-width: 1230px) {
 	.dark h1.light, .light h1, .dark .light h1, h1.light {
