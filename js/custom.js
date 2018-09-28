@@ -128,6 +128,15 @@ $(document).on('click', '[data-toggle=panel]', function (e) {
     if(!$(href).hasClass("show")) $(href).trigger("close.alert");
     else $(href).trigger("open.alert");
 });
+	
+//------------------------------------------------------------------------
+//                    MODAL VIDEO STOP
+//------------------------------------------------------------------------
+	
+$('#modal--video').on('hidden.bs.modal', function () {
+	callPlayer('yt-player', 'stopVideo');
+});	
+	
 //------------------------------------------------------------------------
 //                    MAGNIFIC POPUP(LIGHTBOX) SETTINGS
 //------------------------------------------------------------------------
