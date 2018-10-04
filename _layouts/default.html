@@ -32,7 +32,7 @@
 		
 		{% include sidemenu.html %}
 		
-		{% if page.isHome != "false" %}
+		{{ page.isHome }}
 			{% include jumbotron.html %}
 		
 			{% include featuredservice.html %}
@@ -42,7 +42,7 @@
 			{% include testimonial.html %}
 		
 			{% include homebrands.html %}
-		{% endif %}
+		
 		
 		{{content}}
 		
