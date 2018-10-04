@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Gabster Fashion Consulting Launch “A Fashion Night Out”
-permalink: /gabster-fashion-consulting-seminar=fashion-night-out.html
+permalink: /gabster-fashion-consulting-seminar-fashion-night-out.html
 categories: journal
 ---
 
-<img src="{{ site.baseurl }}/images/gabster-fashion-consulting-ev-hive=seminar.jpg" class="img-fluid" />
+<img src="{{ site.baseurl }}/images/gabster-fashion-consulting-ev-hive-seminar.jpg" class="img-fluid" />
 
 Jakarta: Located in EV Hive City, Plaza Kuningan, Jakarta Gabster Fashion Consulting (GFC) collaborated with EV Hive opens their new office last Thursday, April 12th 2018.
 
