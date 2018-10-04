@@ -91,6 +91,20 @@
   border-color: transparent transparent transparent white;
 }
 
+.post{
+    .date{
+        margin-bottom:2.5rem;
+        font-family:georgia;
+    }
+    
+    .img-fluid{
+        width: 100%;
+        padding: 4rem;
+        background: yellow;
+        margin-bottom: 2.5rem;
+    }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 //@import "highlights";
