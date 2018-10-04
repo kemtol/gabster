@@ -167,8 +167,8 @@ $('.gallery').each(function () { // the containers for all your galleries
 
 
 $('.post-container').each(function () {
-    var imgsrc = $(this).find(".post p:first img:first").attr('src');
-	alert(imgsrc);
+	var imgsrc = $(this).find(".post p:first img:first").attr('src');
+	$(this).find('.item-img').attr("src",imgsrc);
 });
 	
 	
