@@ -32,15 +32,17 @@
 		
 		{% include sidemenu.html %}
 		
-		{% include jumbotron.html %}
+		{% if page.isHome != "false" %}
+			{% include jumbotron.html %}
 		
-		{% include featuredservice.html %}
+			{% include featuredservice.html %}
 		
-		{% include homeservices.html %}
+			{% include homeservices.html %}
 		
-		{% include testimonial.html %}
+			{% include testimonial.html %}
 		
-		{% include homebrands.html %}
+			{% include homebrands.html %}
+		{% endif %}
 		
 		{{content}}
 		
