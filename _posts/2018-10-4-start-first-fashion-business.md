@@ -6,7 +6,7 @@ permalink: /start-your-fashion-business-now.html
 categories: journal
 ---
 
-<img src="{{ site.baseurl }}start-your-fashion-business.jpeg" class="img-fluid" />
+<img src="{{ site.baseurl }}/images/start-your-fashion-business.jpeg" class="img-fluid" />
 
 Jakarta, April 12th 2018 – Local fashion industry which is increasingly on top shows if business in this area is highly grows in Indonesia. It wasn’t a bad idea if you had an interest and great idea to take a part in utilizing this moment. In order to business and your energy gives a maximum expectation, it would be nice to do a research and think about its business model clearly. Starts from there, Gabriella Sheena Halim as a Founder & CEO presents Gabster Fashion Consulting (GFC) to help everyone who wants to do a business fashion.
 
