@@ -15,11 +15,11 @@
 			<div class="col-md mb-50">
 				<h4 class="mb-20"><strong>TREND REPORT</strong></h4>
 				<ul class="list-unstyled padding-list">
-				<li><a href="#">List item description</a></li>
-				<li><a href="#">List item description</a></li>
-				<li><a href="#">List item description</a></li>
-				<li><a href="#">List item description</a></li>
-				<li><a href="#">List item description</a></li>
+					
+				{% for post in site.posts limit:2 %}
+					<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>          
+				{% endfor %} 	
+				
 				</ul>
 			</div>
 			<div class="d-none col-md mb-50">
