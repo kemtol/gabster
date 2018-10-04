@@ -1,0 +1,30 @@
+---
+layout: post
+title: Gabster Fashion Consulting Launch “A Fashion Night Out”
+permalink: /gabster-fashion-consulting-seminar=fashion-night-out.html
+categories: journal
+---
+
+<img src="{{ site.baseurl }}/images/gabster-fashion-consulting-ev-hive=seminar.jpg)" class="img-fluid" />
+
+Jakarta: Located in EV Hive City, Plaza Kuningan, Jakarta Gabster Fashion Consulting (GFC) collaborated with EV Hive opens their new office last Thursday, April 12th 2018.
+
+The concept who has been offered by GFC in their office is as one place “one stop solutions” anything about fashion or more well-known as about fashion hub.
+
+The main purpose for this company to established it according Gabriella Sheena Halim as a CEO and Founder of GABSTER Fashion Consulting is wherefore business of fashion is not only about making and selling the clothes.
+
+Sheena elaborates that there are lots of aspect and then it is quite weary to see a lot of import brand fills local markets, “Why don’t we increase our own products?” adds Sheena.
+
+Sheena mentions that this GFC were expected to build a fashion community and could have a good representative about local products, either international. It is not just about that, GFC can be a needed consultant from A to Z about fashion and its various products as well.
+
+Sheena also states that fashion hub has been expanded as an office, fashion workshop room, sewing machine, cutting table and pattern, also daily and monthly fashion desk pass.
+
+“We are pleased could be partnership with GFC because we hope that GFC will brought a fashion community into space and inventing synergy from our member,” said Ethan Choi, Co-Founder and CSO of EV HIVE.
+
+It is not only about that, Ethan Choi also states that fashion nowadays could be a strong platform in e-commerce business and he believe that GFC will be leader online along offline community for fashion designer and entrepreneur in Indonesia.
+
+GFC begins since 2017 with no office and only hold one client, Sheena herself also have worked at widely-known brand such as Chanel, Vera Wang, Michael Kors, Zalora and many more.
+
+Sheena currently have been cooperated with few top brands, such as Third Day, ANYE by Agnes Mo, Sixteen Denim Scale, 3Second, Greenlight, Famo, Mountley, FMC, Maskoolin.com and many more.
+
+“We try to increase a big scale on fashion industry and sees them on sales and wear by people globally. I honestly tired to see international brand flooding our market. For that, it has to be a way how local brand to compete with the international brand, either in or overseas as well.” ends Sheena.
