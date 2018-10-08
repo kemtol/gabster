@@ -119,10 +119,7 @@
 }
 
 #benefits-2col{
-    .yellow-btn{
-        border-color: #FFF !important;
-    }
-    .green-btn{
+    .yellow-btn,.yellow-btn:hover,.green-btn,.green-btn:hover{
         border-color: #FFF !important;
     }
 }
