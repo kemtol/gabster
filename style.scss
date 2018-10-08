@@ -21,6 +21,17 @@
     border-color: gold !important;
 }
 
+.green-btn{
+    background-color: limegreen !important;
+    color: #111 !important;
+    border-color: limegreen !important;
+}
+
+.green-btn:hover{
+    background-color: forestgreen !important;
+    color: forestgreen !important;
+}
+
 #jumbotron{
   .bg-default{
     background: #000;
@@ -104,6 +115,15 @@
         padding: 4rem;
         background: yellow;
         margin-bottom: 2.5rem;
+    }
+}
+
+#benefits-2col{
+    .yellow-btn{
+        border-color: #FFF !important;
+    }
+    .green-btn{
+        border-color: #FFF !important;
     }
 }
 
