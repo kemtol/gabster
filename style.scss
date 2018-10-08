@@ -29,7 +29,7 @@
 
 .green-btn:hover{
     background-color: forestgreen !important;
-    color: forestgreen !important;
+    color: #111 !important;
 }
 
 #jumbotron{
@@ -119,7 +119,10 @@
 }
 
 #benefits-2col{
-    .yellow-btn,.yellow-btn:hover,.green-btn,.green-btn:hover{
+    .yellow-btn,
+    .yellow-btn:hover,
+    .green-btn,
+    .green-btn:hover{
         border-color: #FFF !important;
         border-width:1px;
         display:inline-block!important;
