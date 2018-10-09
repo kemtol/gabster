@@ -4,6 +4,7 @@ permalink: /small-moq-apparel-clothing-production.html
 title: Small Batch Clothing Manufacturers
 categories: services
 servicename: production
+punchline: MOQ 40pcs, 4 weeks delivery, 4 steps only
 ---
 
 <img src="https://img.youtube.com/vi/wHQ9ncHe_G8/maxresdefault.jpg" class="img-fluid" />
