@@ -152,6 +152,10 @@ section[id*='service-'] {
     ol{
         list-style-position:inside;
     }
+    .punchline{
+        font-family:georgia;
+        font-style:italic;
+    }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
