@@ -41,15 +41,17 @@
 		{% include sidemenu.html %}
 		
 		{% if page.layout != "post" %}
-			{% include jumbotron.html %}
-		
-			{% include featuredservice.html %}
-		
-			{% include homeservices.html %}
-		
-			{% include testimonial.html %}
-		
-			{% include homebrands.html %}
+			{% if page.layout != "service" %}
+				{% include jumbotron.html %}
+
+				{% include featuredservice.html %}
+
+				{% include homeservices.html %}
+
+				{% include testimonial.html %}
+
+				{% include homebrands.html %}
+			{% endif %}
 		{% endif %}
 		
 		{{content}}
