@@ -22,10 +22,12 @@
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
 
 	{% if page.layout == "post" %}
-	<style>
-		#nav-logo-icon{background:#111}
-		.light svg.svg-default{fill:#fff}
-	</style>
+		{% if page.layout == "service" %}
+			<style>
+				#nav-logo-icon{background:#111}
+				.light svg.svg-default{fill:#fff}
+			</style>
+		{% endif %}
 	{% endif %}
 	
 	<!-- declare javascript var from config.yml -->
