@@ -173,6 +173,13 @@ $('.post-container').each(function () {
 	
 	
 });
+
 window.addEventListener('load', function() {
 	$('a.smooth').smoothScroll({speed: 800});
 });
+
+// ----------------------
+// for portfolio page css
+// ----------------------
+
+$('#portfolio-photowork img[src~='look']').addClass("img-fluid")
