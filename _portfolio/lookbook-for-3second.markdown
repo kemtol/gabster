@@ -27,3 +27,9 @@ Bi-ensi Fesyenindo dibangun dengan kegigihan dan focus untuk memberikan kualitas
 > Bi-ensi Fesyenindo dibangun dengan kegigihan dan focus untuk memberikan kualitas dan desain-desain terbaik.
 
 ![look-portrait-DSC_2725.jpg](/uploads/look-portrait-DSC_2725.jpg)![look-portrait-DSC_2682.jpg](/uploads/look-portrait-DSC_2682.jpg)
+
+## What can we learn from 3SECOND Lookbook
+
+Bi-ensi Fesyenindo dibangun dengan kegigihan dan focus untuk memberikan kualitas dan desain-desain terbaik. Didukung oleh tim-tim yang handal dan dukungan dari para partner kerja Bi-ensi Fesyenindo diharapkan mampu untuk memberikan kesempurnaan dalam setiap merk yang dikelolanya.
+
+Bi-ensi Fesyenindo dibangun dengan kegigihan dan focus untuk memberikan kualitas dan desain-desain terbaik. Didukung oleh tim-tim yang handal dan dukungan dari para partner kerja Bi-ensi Fesyenindo diharapkan mampu untuk memberikan kesempurnaan dalam setiap merk yang dikelolanya.
