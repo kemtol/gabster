@@ -24,4 +24,6 @@ Bi-ensi Fesyenindo dibangun dengan kegigihan dan focus untuk memberikan kualitas
 ![look-landscape-DSC_1979.jpg](/uploads/look-landscape-DSC_1979.jpg)
 ![look-landscape-DSC_2347.jpg](/uploads/look-landscape-DSC_2347.jpg)
 
+> Bi-ensi Fesyenindo dibangun dengan kegigihan dan focus untuk memberikan kualitas dan desain-desain terbaik.
+
 ![look-portrait-DSC_2725.jpg](/uploads/look-portrait-DSC_2725.jpg)![look-portrait-DSC_2682.jpg](/uploads/look-portrait-DSC_2682.jpg)
