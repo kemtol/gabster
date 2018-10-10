@@ -183,4 +183,4 @@ window.addEventListener('load', function() {
 // ----------------------
 
 $('#portfolio-photowork img[src*="look-portrait"], #portfolio-photowork img[src*="trait"]').addClass("img-fluid look portrait")
-$('#portfolio-photowork img[src*="look-landscape"], '#portfolio-photowork img[src*="scape"]').addClass("img-fluid look landscape")
+$('#portfolio-photowork img[src*="look-landscape"], #portfolio-photowork img[src*="scape"]').addClass("img-fluid look landscape")
