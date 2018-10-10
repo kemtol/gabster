@@ -11,6 +11,9 @@ collections:
   portfolio:
     title: portfolio
     output: true
+  services:
+    title: services
+    output: true
 name: Gabster GFC
 description: Fashion Consultant, Clothing Production, Indonesia Clothing Factory.
 avatar: 
