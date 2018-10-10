@@ -40,18 +40,16 @@
 		
 		{% include sidemenu.html %}
 		
-		{% if page.layout != "post" %}
-			{% if page.layout != "service" %}
-				{% include jumbotron.html %}
+		{% if page.ishome == true %}
+			{% include jumbotron.html %}
 
-				{% include featuredservice.html %}
+			{% include featuredservice.html %}
 
-				{% include homeservices.html %}
+			{% include homeservices.html %}
 
-				{% include testimonial.html %}
+			{% include testimonial.html %}
 
-				{% include homebrands.html %}
-			{% endif %}
+			{% include homebrands.html %}
 		{% endif %}
 		
 		{{content}}
