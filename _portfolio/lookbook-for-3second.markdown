@@ -8,9 +8,11 @@ categories:
 - lookbook
 portfolioname: photowork
 punchline: Lorem ipsum dollor imet
-layout: portfolio
+layout: service
 ---
 
-![DSC_2084 copy.jpg](/uploads/DSC_2084%20copy.jpg)
-![DSC_1979.jpg](/uploads/DSC_1979.jpg)
-![DSC_1824.jpg](/uploads/DSC_1824.jpg)
+![look-landscape-DSC_2867.jpg](/uploads/look-landscape-DSC_2867.jpg)
+![look-landscape-DSC_3010.jpg](/uploads/look-landscape-DSC_3010.jpg)
+![look-landscape-DSC_3013.jpg](/uploads/look-landscape-DSC_3013.jpg)
+![look-landscape-DSC_3011.jpg](/uploads/look-landscape-DSC_3011.jpg)
+![look-landscape-DSC_3036.jpg](/uploads/look-landscape-DSC_3036.jpg)
