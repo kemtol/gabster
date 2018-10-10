@@ -3,9 +3,7 @@ title: Lookbook For 3SECOND
 date: 2018-10-10 06:17:00 Z
 permalink: "/lookbook-work-for-3second.html"
 categories:
-- portfolio
 - photowork
-- lookbook
 portfolioname: photowork
 punchline: Lorem ipsum dollor imet
 Field name: 
