@@ -182,4 +182,5 @@ window.addEventListener('load', function() {
 // for portfolio page css
 // ----------------------
 
-$('#portfolio-photowork img').addClass("img-fluid")
+$('#portfolio-photowork img[src*="look-portrait"]').addClass("img-fluid look portrait")
+$('#portfolio-photowork img[src*="look-landscape"]').addClass("img-fluid look landscape")
