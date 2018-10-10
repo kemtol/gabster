@@ -135,7 +135,8 @@
     }
 }
 
-section[id*='service-'] {
+section[id*='service-'],
+section[id*='portfolio-'] {
     hr{
         margin-top: 2rem;
         margin-bottom: 2rem;
