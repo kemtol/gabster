@@ -8149,25 +8149,6 @@ a.image-popup:not(.btn) {
 	background:gold;
 }
 
-.gallery-item.gallery-style-5 .item-icon {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%) scale(0.9);
-    transform: translate(-50%, -50%) scale(0.9);
-    opacity: 0;
-}
-
-.gallery-item.gallery-style-5:hover .item-icon {
-    opacity: 1;
-    -webkit-transform: translate(-50%, -50%) scale(1);
-    transform: translate(-50%, -50%) scale(1);
-}
-
-.gallery-item.gallery-style-5:hover .item-img {
-    opacity: 0.1;
-}
-
 
 
 /*---------------  STYLE 6 ---------------*/
