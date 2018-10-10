@@ -172,8 +172,18 @@ section#portfolio-photowork {
         width:calc(50% - 3px);
     }
     
-    .landscape:nth-child(2){
+    .landscape:nth-child(1){
         background:yellow;
+    }
+    
+    blockquote{
+        padding:2rem;
+        p{
+            margin-bottom: 0;
+            font-size: 1.75rem;
+            font-family: georgia;
+            font-style: italic;
+        }
     }
 }
 
