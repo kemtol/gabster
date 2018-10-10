@@ -1,9 +1,12 @@
 ---
-title: Interested in Business Fashion, Confused on How It Starts? GFC Would Crack Your Answers!
+title: Interested in Business Fashion, Confused on How It Starts? GFC Would Crack
+  Your Answers!
+date: 2018-10-04 00:00:00 Z
+permalink: "/start-your-fashion-business-now.html"
+categories:
+- journal
 layout: post
 author: rimma.co
-permalink: /start-your-fashion-business-now.html
-categories: journal
 ---
 
 <img src="{{ site.baseurl }}/images/start-your-fashion-business.jpeg" class="img-fluid" />

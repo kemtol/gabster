@@ -1,8 +1,10 @@
 ---
-layout: service
-permalink: /small-moq-apparel-clothing-production.html
 title: Small Batch Clothing Manufacturers
-categories: services
+date: 2018-10-09 00:00:00 Z
+permalink: "/small-moq-apparel-clothing-production.html"
+categories:
+- services
+layout: service
 servicename: production
 punchline: MOQ 40pcs, 4 weeks delivery, 4 steps only
 ---
