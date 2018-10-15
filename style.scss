@@ -152,7 +152,11 @@ section[id*='portfolio-'] {
     h3{
         font-size: 1.25rem;
     }
-
+    p{
+        img{
+            max-width:100%;
+        }
+    }
     ol {
         list-style: none;
         counter-reset: my-awesome-counter;
