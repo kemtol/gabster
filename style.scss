@@ -208,9 +208,11 @@ section[id*='service-']{
             background:#f6f6f6;
             float:left;
             margin-right:2rem;
+            margin-bottom:2rem;
             @include mobile{
                 float:none;
                 margin-right:0;
+                margin-bottom:0;
                 max-width:100%;
             }
             
