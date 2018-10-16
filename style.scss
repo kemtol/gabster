@@ -180,15 +180,30 @@ section[id*='portfolio-'] {
             content: "0" counter(my-awesome-counter);
             font-weight: bold;
             font-size: 3rem;
-            margin-right: 0.5rem;
+            margin-right: 1rem;
             font-family: 'Abril Fatface', serif;
             line-height: 1;
+            color:gold
         }
     }
     
     .punchline{
         font-family:georgia;
         font-style:italic;
+    }
+}
+
+section[id*='service-']{
+    p{
+        img{
+            padding:2rem;
+        }
+    }
+    p:nth-child(3){
+        img{
+            padding:2rem;
+            background:yellow;
+        }
     }
 }
 
