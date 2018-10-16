@@ -170,20 +170,26 @@ section[id*='portfolio-'] {
         margin-bottom:2rem;
 
         li {
-        counter-increment: my-awesome-counter;
-        display: flex;
-        width: 33%;
-        font-size: 20px;
-        margin-bottom: 0.5rem;
+            counter-increment: my-awesome-counter;
+            display: flex;
+            width: 33%;
+            font-size: 20px;
+            margin-bottom: 1rem;
+            @include mobile{
+                width:100%;
+                margin-bottom:1rem;
+                
+            }
         }
         li::before {
             content: "0" counter(my-awesome-counter);
-            font-weight: bold;
             font-size: 3rem;
             margin-right: 1rem;
             font-family: 'Abril Fatface', serif;
             line-height: 1;
-            color:gold
+            color:gold;
+            position: relative;
+            top: -10px;
         }
     }
     
