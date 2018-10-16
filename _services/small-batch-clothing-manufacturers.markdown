@@ -11,14 +11,14 @@ layout: service
 
 ![services-production.jpg](/uploads/services-production.jpg)
 
-<hr>
+---
 
 ## Get your product ready in 3 steps
 1. Pick your fabric
 2. Make a pattern
 3. We do the rest
 
-<hr>
+---
 
 ## Fabric Sourcing
 
@@ -26,7 +26,7 @@ layout: service
 
 GFC helps apparel designers improve quality and delegate global supply chain management.
 
-<hr>
+---
 
 ## Pattern Making
 
@@ -36,7 +36,7 @@ Create a 2D blueprint of your idea. Get a production-ready pattern with face car
 
 This step in apparel manufacturing not only takes skill, but is very important in creating a tangible representation of your vision. Today, we can digitize this technical request, but also typically create paper patterns too.
 
-<hr>
+---
 
 ## Sizing/Grading/Marking
 
@@ -44,13 +44,15 @@ This step in apparel manufacturing not only takes skill, but is very important i
 
 Get the specifications for your target customer. Cost is based on number of pattern pieces in the style. With seasoned professionals who do this daily, we are sure to never miss the mark.
 
+---
+
 ## Manufacturing
 
 ![konveksi-garmen-cligeon-6.jpeg](/uploads/konveksi-garmen-cligeon-6.jpeg)
 
 Each brand works with a personal production manager who is your point of contact throughout the entire manufacturing process. Our production managers provide guidance and support through all stages of apparel manufacturing. They will track and communicate each step of the production process and keep to strict deadlines to deliver the goods. We only partner with brands who have shared success in mind.
 
-<hr>
+---
 
 ## CASE STUDY: MASKOOLIN
 
