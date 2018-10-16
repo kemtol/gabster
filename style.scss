@@ -196,13 +196,18 @@ section[id*='portfolio-'] {
 section[id*='service-']{
     p{
         img{
-            padding:2rem;
+            padding:1rem;
+            width:100%;
+            max-width:720px;
+            background:#f6f6f6;
         }
     }
     p:nth-child(3){
         img{
             padding:2rem;
             background:yellow;
+            width:100%;
+            max-width:100%;
         }
     }
 }
