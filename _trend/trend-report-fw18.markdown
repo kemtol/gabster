@@ -2,7 +2,7 @@
 title: Trend Report FW18
 date: 2018-10-16 00:57:00 Z
 permalink: "/trend/trend-report-fw18.html"
-tagline: FALL WINTER 2018
+punchline: FALL WINTER 2018
 layout: portfolio
 ---
 
