@@ -49,6 +49,7 @@ This is our case study for production
 
 They need lorem ipsum dollor imet but is very important in creating a tangible representation of your vision. Today, we can digitize this technical request, but also typically create paper patterns too.
 
-## Vabulo
+### Vabulo
+
 They need lorem ipsum dollor imet but is very important in creating a tangible representation of your vision. Today, we can digitize this technical request, but also typically create paper patterns too.
 Utilize NeedleDress’s knowledge of popular sizing depending on the target customer. We strive to deliver a garment that fits perfectly, just as you envisioned. NeedleDress can work within your budget and timeframes, just simply reach out and put our service to the test.
