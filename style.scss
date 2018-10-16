@@ -9,6 +9,12 @@
 @import "variables";
 // overide kemal
 
+h1{
+    @include mobile{
+        font-size:2rem;
+    }
+}
+
 .yellow-btn{
     background-color: #FFF303 !important;
     color: #111 !important;
@@ -214,6 +220,7 @@ section[id*='service-']{
                 margin-right:0;
                 margin-bottom:0;
                 max-width:100%;
+                padding:0.5rem;
             }
             
         }
@@ -224,6 +231,9 @@ section[id*='service-']{
             background:yellow;
             width:100%;
             max-width:100%;
+            @include mobile{
+                padding:1rem;
+            }
         }
     }
     hr{
