@@ -47,6 +47,8 @@ This is our case study for production
 
 ### MASKOOLIN
 
+![Screenshot 2018-10-16 at 7.11.05 AM.png](/uploads/Screenshot%202018-10-16%20at%207.11.05%20AM.png)
+
 They need lorem ipsum dollor imet but is very important in creating a tangible representation of your vision. Today, we can digitize this technical request, but also typically create paper patterns too.
 
 ### Vabulo
