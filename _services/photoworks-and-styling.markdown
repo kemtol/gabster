@@ -4,7 +4,7 @@ date: 2018-10-25 04:09:00 Z
 permalink: "/photoworks-styling.html"
 categories:
 - services
-punchline: lookbook, photoshoot
+punchline: 
 servicename: production
 layout: service
 ---
