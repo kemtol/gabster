@@ -6,7 +6,7 @@ categories:
 - services
 punchline: 
 servicename: consulting
-layout: post
+layout: service
 ---
 
 ![services-production.jpg](/images/services/service-4.jpg)
