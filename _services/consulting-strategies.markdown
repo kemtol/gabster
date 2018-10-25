@@ -2,6 +2,8 @@
 title: Consulting Strategies
 date: 2018-10-25 03:43:00 Z
 permalink: "/consulting-strategies.html"
+categories:
+- services
 punchline: MOQ 40pcs, 4 weeks delivery, 4 steps only
 servicename: production
 layout: service
