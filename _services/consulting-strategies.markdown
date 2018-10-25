@@ -4,7 +4,7 @@ date: 2018-10-25 03:43:00 Z
 permalink: "/consulting-strategies.html"
 categories:
 - services
-servicename: production
+servicename: consulting
 layout: service
 ---
 
