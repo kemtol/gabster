@@ -5,7 +5,7 @@ permalink: "/photoworks-styling.html"
 categories:
 - services
 punchline: lookbook, photoshoot
-servicename: photoworks & styling
+servicename: production
 layout: service
 ---
 
