@@ -1,11 +1,11 @@
 ---
 title: Workshop & Seminar
 date: 2018-10-25 04:57:00 Z
-permalink: "/workshop-seminar.html"
+permalink: "/services/workshop-seminar.html"
 categories:
 - services
-punchline: 
-servicename: production
+punchline: fashion event organization
+servicename: workshop and seminar
 layout: service
 ---
 
