@@ -1,11 +1,11 @@
 ---
 title: "#GabsterPeople"
 date: 2018-10-25 05:00:00 Z
-permalink: "/gabster-people.html"
+permalink: "/services/gabster-people.html"
 categories:
 - services
-punchline: 
-servicename: production
+punchline: '"when you fail, just simply try again. don''t just quit."'
+servicename: gabster people
 layout: service
 ---
 
