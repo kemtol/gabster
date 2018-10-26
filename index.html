@@ -16,7 +16,9 @@ ishome: true
     {% for post in site.posts limit:2 %}
       <div class="col-md post-container">
         <div class="gallery-item gallery-style-8 mb-50 dark padding-x2">
-          <a href="{{ site.baseurl }}{{ post.url }}" style="display:inline-block"><img class="item-img" src="images/item-blog-5.jpg" alt="image"></a>
+          <a href="{{ site.baseurl }}{{ post.url }}" style="display:inline-block">
+            <img class="item-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="image">
+          </a>
 
           <div class="item-title">
             <h4><strong>{{ post.title }}</strong></h4>
