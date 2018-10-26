@@ -165,7 +165,12 @@ $('.gallery').each(function () { // the containers for all your galleries
     });
 });
 
+$('.content-box').each(function () {
+	var imgsrc = $(this).find(".c1 p:first img:first").attr('src');
+	$(this).find('.thisis').attr("src",imgsrc);
+});
 
+	
 $('.post-container').each(function () {
 	var imgsrc = $(this).find(".post p:first img:first").attr('src');
 	$(this).find('.item-img').attr("src",imgsrc);
