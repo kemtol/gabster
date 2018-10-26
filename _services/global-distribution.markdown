@@ -1,11 +1,11 @@
 ---
 title: Global Distribution
 date: 2018-10-25 04:50:00 Z
-permalink: "/global-distribution.html"
+permalink: "/services/global-distribution.html"
 categories:
 - services
-punchline: 
-servicename: production
+punchline: potential brand collaboration
+servicename: distribution
 layout: service
 ---
 
