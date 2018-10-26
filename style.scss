@@ -139,6 +139,9 @@ h1{
         color:green !important;
         font-family: monospace;
     }
+    .section-box{
+        p,hr{display:none}
+    }
 }
 
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
