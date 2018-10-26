@@ -4,7 +4,7 @@ date: 2018-10-25 04:19:00 Z
 permalink: "/services/sourcing.html"
 categories:
 - services
-punchline: 
+punchline: direct sourcing from local and international factories
 servicename: sourcing
 layout: service
 ---
