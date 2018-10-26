@@ -1,7 +1,7 @@
 ---
 title: Photoworks & Styling
 date: 2018-10-25 04:09:00 Z
-permalink: "/photoworks-styling.html"
+permalink: "/services/photoworks-styling.html"
 categories:
 - services
 punchline: includes styling guide brand direction
