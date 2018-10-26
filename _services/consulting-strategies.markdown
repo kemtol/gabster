@@ -1,7 +1,7 @@
 ---
 title: Consulting Strategies
 date: 2018-10-25 03:43:00 Z
-permalink: "/consulting-strategies.html"
+permalink: "/services/consulting-strategies.html"
 categories:
 - services
 punchline: branding, merchandising, sales, marketing, social media, e commerce, offline
