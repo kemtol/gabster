@@ -140,7 +140,7 @@ h1{
         font-family: monospace;
     }
     .content-box{
-        p,hr{display:none}
+        h1,h2,h3,h4,h5,p,ol,ul,hr{display:none}
     }
 }
 
