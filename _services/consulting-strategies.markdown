@@ -4,8 +4,9 @@ date: 2018-10-25 03:43:00 Z
 permalink: "/consulting-strategies.html"
 categories:
 - services
-punchline: 
-servicename: production
+punchline: branding, merchandising, sales, marketing, social media, e commerce, offline
+  retail, strategies and management fashion event
+servicename: consulting
 layout: service
 ---
 
