@@ -139,8 +139,10 @@ h1{
         color:green !important;
         font-family: monospace;
     }
-    .content-box>*{
-        display:none
+    .content-box{ 
+        .c1>*{
+            display:none
+        }
     }
 }
 
