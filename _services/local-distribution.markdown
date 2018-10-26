@@ -1,11 +1,11 @@
 ---
 title: Local Distribution
 date: 2018-10-25 04:54:00 Z
-permalink: "/local-distribution.html"
+permalink: "/services/local-distribution.html"
 categories:
 - services
-punchline: 
-servicename: production
+punchline: strategies that match local market
+servicename: distribution
 layout: service
 ---
 
