@@ -1,11 +1,11 @@
 ---
 title: Sourcing
 date: 2018-10-25 04:19:00 Z
-permalink: "/sourcing.html"
+permalink: "/services/sourcing.html"
 categories:
 - services
 punchline: 
-servicename: production
+servicename: sourcing
 layout: service
 ---
 
