@@ -1,6 +1,6 @@
 ---
 title: Small Batch Clothing Manufacturers
-date: 2018-10-26 06:23:00 Z
+date: 2018-10-23 06:23:00 Z
 permalink: "/services/small-low-moq-apparel-clothing-production.html"
 categories:
 - services
