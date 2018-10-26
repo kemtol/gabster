@@ -4,12 +4,14 @@
 			<div class="col-md mb-50">
 				<h4 class="mb-20"><strong>SERVICES</strong></h4>
 				<ul class="list-unstyled padding-list">
-				<li><a href="#">Production</a></li>
-				<li><a href="#">Consulting & Strategies</a></li>
-				<li><a href="#">Photoworks Lookbook & Catalog</a></li>
-				<li><a href="#">Styling</a></li>
-				<li><a href="#">Sourcing</a></li>
-				<li><a href="#">Distribution</a></li>
+					
+				{% assign serves = site.services | sort:"date" %}
+
+				{% for layanan in serves %}
+					<li><a href="{{ layanan.permalink }}">{{ layanan.servicename }}</a></li>
+
+				{% endfor %}
+					
 				</ul>
 			</div>
 			<div class="col-md mb-50">
