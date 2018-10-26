@@ -5,17 +5,23 @@
         <h3>WHAT WE DO BEST</h3>
         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 100 20" width="100" class="mb-50 svg-primary"><path d="m0 9h100v2h-100z" fill-rule="evenodd"></path></svg>
       </div>
-      <div class="col-md-6">
-        <div class="content-box mb-50 mb-md-75 d-block text-left">
+      <div class="col-md-12">
+        
+        {% for layanan in site.services %}
+        
+        <div class="col-md-6 content-box mb-50 mb-md-75 d-block text-left">
           <img class="mb-20 img-fluid" src="/images/services/service-1.jpg" />
-          <h4 class="mb-20">PRODUCTION</h4>
-          <p class="mb-20">We do sample making and small quantity manufacturing with a minimum of 6 per style. Our expert will assist you in making your clothing and or accessories brand come true. We are expert in all categories womenswear, menswear, childrenwear, knit, and woven.</p>
+          <h4 class="mb-20">{{ layanan.servicename }}</h4>
+          <p class="mb-20">{{ layanan.content }}</p>
           <div class="row ml-0 mr-0">
-            <a class="col-sm btn btn-primary chat-us-service green-btn" href=""><i class="fab fa-whatsapp"></i> CHAT NOW</a>
-            <a class="col-sm btn btn-primary learn-more-service yellow-btn" href="/small-low-moq-apparel-clothing-production.html">LEARN MORE</a>
+            <a class="col-sm btn btn-primary chat-us-service green-btn" href="https://api.whatsapp.com/send?phone={{site.wa}}&text=Hi%20GABSTER,%20i%20need%20info%20for%20your%20{{site.servicename}}%20services.%20Can%20you%20help%20me?"><i class="fab fa-whatsapp"></i> CHAT NOW</a>
+            <a class="col-sm btn btn-primary learn-more-service yellow-btn" href="{{ layanan.permalink }}">LEARN MORE</a>
           </div>
         </div>
-        <div class="content-box mb-50 mb-md-75 d-block text-left">
+        
+        {% endfor %}
+        
+        <!--<div class="content-box mb-50 mb-md-75 d-block text-left">
           <img class="mb-20 img-fluid" src="/images/services/service-2.jpg" />
           <h4 class="mb-20">PHOTOWORKS & STYLING</h4>
           <p class="mb-20">Lookbook both global and local and catalog.<br/>Our lookbook shoot package includes: model, make up artist, photographer, stylist, and concept. We offer photoshoot both locally - all around Indonesia and overseas such as Europe, USA, and Japan. Our expert will match your budget and deliver the best image quality for you to present to your buyers and customers. We will match your brand direction with the imagery that will be produced. We also have creative direction and styling option for you.</p>
@@ -77,7 +83,7 @@
             <a class="col-sm btn btn-primary chat-us-service green-btn" href=""><i class="fab fa-whatsapp"></i> CHAT NOW</a>
             <a class="col-sm btn btn-primary learn-more-service yellow-btn" href="">LEARN MORE</a>
           </div>
-        </div>
+        </div>-->
       </div>
     </div>
   </div>
