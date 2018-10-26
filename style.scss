@@ -139,9 +139,13 @@ h1{
         color:green !important;
         font-family: monospace;
     }
-    .content-box{ 
+    .content-box{
+        h4{text-transform:uppercase}
         .c1>*{
-            display:none
+            display:none;
+        }
+        .c1>p:nth-child(3){
+            display:block;
         }
     }
 }
