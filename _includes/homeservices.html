@@ -12,8 +12,8 @@
         <div class="col-md-6 content-box mb-50 mb-md-75 d-block text-left">
           <img class="mb-20 img-fluid" src="/images/services/service-1.jpg" />
           <h4 class="mb-20">{{ layanan.servicename }}</h4>
-          <p class="mb-20">{{ layanan.content }}</p>
-          <div class="row ml-0 mr-0">
+          {{ layanan.content }}
+          <div class="row ml-0 mr-0 mt-20">
             <a class="col-sm btn btn-primary chat-us-service green-btn" href="https://api.whatsapp.com/send?phone={{site.wa}}&text=Hi%20GABSTER,%20i%20need%20info%20for%20your%20{{site.servicename}}%20services.%20Can%20you%20help%20me?"><i class="fab fa-whatsapp"></i> CHAT NOW</a>
             <a class="col-sm btn btn-primary learn-more-service yellow-btn" href="{{ layanan.permalink }}">LEARN MORE</a>
           </div>
