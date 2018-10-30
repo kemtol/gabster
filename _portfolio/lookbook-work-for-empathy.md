@@ -6,6 +6,8 @@ categories:
 - photowork
 portfolioname: photowork
 punchline: Lorem ipsum dollor imet
+portfolioclient: EMPATHY
+coverimage: "/uploads/portfolio-cover-empathy.jpg"
 layout: portfolio
 ---
 
