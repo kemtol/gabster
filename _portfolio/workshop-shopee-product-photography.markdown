@@ -6,6 +6,8 @@ categories:
 - workshop
 portfolioname: seminar
 punchline: Go get your products lookbook good!
+portfolioclient: SHOPEE
+coverimage: "/uploads/portfolio-cover-3second.jpg"
 layout: portfolio
 ---
 
