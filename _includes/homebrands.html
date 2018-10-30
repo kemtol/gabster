@@ -11,116 +11,20 @@
             <div class="col-12">
 
                 <div class="carousel-4item owl-drag">
-                  
-                    <div class="item gallery-item gallery-style-5 text-right padding">
-                        <a href="{{site.baseurl}}/lookbook-work-for-3second.html">
-                            <img src="{{site.baseurl}}/uploads/portfolio-cover-3second.jpg" alt="" class="item-img">
-                        </a>
-                        <div class="item-title">
-                            <p class="lead text-primary mb-0">PHOTOWORK</p>
-                            <p><strong>3SECOND</strong></p>
-                        </div>
-                    </div>
-                  
-                    <div class="item gallery-item gallery-style-5 text-right padding">
-                        <a href="{{site-baseurl}}/lookbook-work-for-empathy.html">
-                            <img src="{{site.baseurl}}/uploads/portfolio-cover-empathy.jpg" alt="" class="item-img">
-                        </a>
-                        <div class="item-title">
-                            <p class="lead text-primary mb-0">PHOTOWORK</p>
-                            <p><strong>EMPATHY</strong></p>
-                        </div>
-                    </div>
-                  
-                    <!--<div class="item gallery-item gallery-style-5 text-right padding">
-                        <a href="images/item-fashion-3.jpg" class="image-popup">
-                            <img src="images/item-fashion-3.jpg" alt="" class="item-img">
-                        </a>
-                        <div class="item-title">
-                            <p class="lead text-primary mb-0">$75</p>
-                            <p><strong>Gallery item</strong></p>
-                        </div>
-                        <div class="item-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" class="icon svg-default">
-                                <path d="m9 7h7v2h-7v7h-2v-7h-7v-2h7v-7h2z" fill-rule="evenodd"></path>
-                            </svg>
-                        </div>
-                    </div>
-                  
-                    <div class="item gallery-item gallery-style-5 text-right padding">
-                        <a href="images/item-fashion-4.jpg" class="image-popup">
-                            <img src="images/item-fashion-4.jpg" alt="" class="item-img">
-                        </a>
-                        <div class="item-title">
-                            <p class="lead text-primary mb-0">$75</p>
-                            <p><strong>Gallery item</strong></p>
-                        </div>
-                        <div class="item-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" class="icon svg-default">
-                                <path d="m9 7h7v2h-7v7h-2v-7h-7v-2h7v-7h2z" fill-rule="evenodd"></path>
-                            </svg>
-                        </div>
-                    </div>
-                  
-                    <div class="item gallery-item gallery-style-5 text-right padding">
-                        <a href="images/item-fashion-1.jpg" class="image-popup">
-                            <img src="images/item-fashion-1.jpg" alt="" class="item-img">
-                        </a>
-                        <div class="item-title">
-                            <p class="lead text-primary mb-0">$75</p>
-                            <p><strong>Gallery item</strong></p>
-                        </div>
-                        <div class="item-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" class="icon svg-default">
-                                <path d="m9 7h7v2h-7v7h-2v-7h-7v-2h7v-7h2z" fill-rule="evenodd"></path>
-                            </svg>
-                        </div>
-                    </div>
-                  
-                    <div class="item gallery-item gallery-style-5 text-right padding">
-                        <a href="images/item-fashion-2.jpg" class="image-popup">
-                            <img src="images/item-fashion-2.jpg" alt="" class="item-img">
-                        </a>
-                        <div class="item-title">
-                            <p class="lead text-primary mb-0">$75</p>
-                            <p><strong>Gallery item</strong></p>
-                        </div>
-                        <div class="item-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" class="icon svg-default">
-                                <path d="m9 7h7v2h-7v7h-2v-7h-7v-2h7v-7h2z" fill-rule="evenodd"></path>
-                            </svg>
-                        </div>
-                    </div>
-                  
-                    <div class="item gallery-item gallery-style-5 text-right padding">
-                        <a href="images/item-fashion-3.jpg" class="image-popup">
-                            <img src="images/item-fashion-3.jpg" alt="" class="item-img">
-                        </a>
-                        <div class="item-title">
-                            <p class="lead text-primary mb-0">$75</p>
-                            <p><strong>Gallery item</strong></p>
-                        </div>
-                        <div class="item-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" class="icon svg-default">
-                                <path d="m9 7h7v2h-7v7h-2v-7h-7v-2h7v-7h2z" fill-rule="evenodd"></path>
-                            </svg>
-                        </div>
-                    </div>
-                  
-                    <div class="item gallery-item gallery-style-5 text-right padding">
-                        <a href="images/item-fashion-4.jpg" class="image-popup">
-                            <img src="images/item-fashion-4.jpg" alt="" class="item-img">
-                        </a>
-                        <div class="item-title">
-                            <p class="lead text-primary mb-0">$75</p>
-                            <p><strong>Gallery item</strong></p>
-                        </div>
-                        <div class="item-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" class="icon svg-default">
-                                <path d="m9 7h7v2h-7v7h-2v-7h-7v-2h7v-7h2z" fill-rule="evenodd"></path>
-                            </svg>
-                        </div>
-                    </div>-->
+                    
+                    {% for portfolio in site.portfolio limit:5 %}
+                    
+                        <div class="item gallery-item gallery-style-5 text-right padding">
+                            <a href="{{site.baseurl}}{{ portfolio.permalink }}">
+                                <img src="{{site.baseurl}}{{ portfolio.coverimage }}" alt="" class="item-img">
+                            </a>
+                            <div class="item-title">
+                                <p class="lead text-primary mb-0">{{ portfolio.portfolioname }}</p>
+                                <p><strong>{{ portfolio.portfolioclient }}</strong></p>
+                            </div>
+                        </div>            
+                    
+                    {% endfor %} 	
                   
                 </div>
             </div>
