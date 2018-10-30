@@ -4,7 +4,7 @@ date: 2018-10-30 10:08:00 Z
 permalink: "/porfolio/gabster-shopee-product-photoshoot-workshop.html"
 categories:
 - workshop
-portfolioname: seminar
+portfolioname: workshop
 punchline: Go get your products lookbook good!
 portfolioclient: SHOPEE
 coverimage: "/uploads/portfolio-cover-3second.jpg"
