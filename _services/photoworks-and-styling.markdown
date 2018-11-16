@@ -22,14 +22,14 @@ Our lookbook shoot package includes: model, make up artist, photographer, stylis
 
 ---
 
-## Get your product ready in 3 steps
-1. Pick your fabric
-2. Make a pattern
-3. We do the rest
+## Get your product and lookbook content in 3 step
+1. Contact us for booking
+2. Get a talent
+3. Produce
 
 ---
 
-## Fabric Sourcing
+## Lookbook photowork
 
 ![konveksi-garmen-cligeon-3.jpeg](/uploads/konveksi-garmen-cligeon-3.jpeg)
 
