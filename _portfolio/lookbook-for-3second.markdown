@@ -6,7 +6,7 @@ categories:
 - photowork
 portfolioname: photowork
 punchline: Lorem ipsum dollor imet
-porfolioclient: 3SECOND
+portfolioclient: 3SECOND
 coverimage: "/uploads/portfolio-cover-3second.jpg"
 layout: portfolio
 ---
