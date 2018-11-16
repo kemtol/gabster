@@ -5,7 +5,7 @@ permalink: "/lookbook-work-for-empathy.html"
 categories:
 - photowork
 portfolioname: photowork
-punchline: Lorem ipsum dollor imet
+punchline: Empathy batik streetwear
 portfolioclient: EMPATHY
 coverimage: "/uploads/portfolio-cover-empathy.jpg"
 layout: portfolio
