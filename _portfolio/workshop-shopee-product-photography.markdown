@@ -11,16 +11,17 @@ coverimage: "/uploads/portfolio-cover-3second.jpg"
 layout: portfolio
 ---
 
-![look-landscape-DSC_2296.jpg](/uploads/look-landscape-DSC_2296.jpg)
+<img src="{{ site.baseurl }}/images/gabster-fashion-consulting-ev-hive-seminar.jpg" class="img-fluid" />
 
-![look-potrait-DSC_1134.jpg](/uploads/look-potrait-DSC_1134.jpg)![look-potrait-DSC_1267-2.jpg](/uploads/look-potrait-DSC_1267-2.jpg)
+## Case study
 
-![look-potrait-DSC_1360.jpg](/uploads/look-potrait-DSC_1360.jpg)![look-potrait-DSC_1470.jpg](/uploads/look-potrait-DSC_1470.jpg)
+SHOPEE workshop took place from 29. to 30. May 2017 in Dublin, Ireland. The Venue was the Museum Building of the Trinity College Dublin.
+The focus of the TU1402 activities regards Working Group 4 and the development of case studies building upon the decision theoretical framework (Working Group 1), a collection and classification of SHM strategies and structural performance models (Working Group 2) and methods and tools to perform the Value of Information analyses (Working Group 3).
 
-![look-potrait-DSC_1663.jpg](/uploads/look-potrait-DSC_1663.jpg)![look-potrait-DSC_1516.jpg](/uploads/look-potrait-DSC_1516.jpg)
+Please find the 9th Workshop report here. The agenda of the meeting can be accessed here.
 
-![look-potrait-DSC_1890.jpg](/uploads/look-potrait-DSC_1890.jpg)![look-potrait-DSC_1957.jpg](/uploads/look-potrait-DSC_1957.jpg)
+Opening Presentation by Sebastian Thöns (PDF / jump to Video)
 
-![look-potrait-DSC_2161.jpg](/uploads/look-potrait-DSC_2161.jpg)![look-potrait-DSC_2198.jpg](/uploads/look-potrait-DSC_2198.jpg)
+Keynote Presentation by Matteo Pozzi, Carnegie Mellon University, Pittsburgh, USA: "Exploring infrastructure systems: free and constrained sensing optimization" (PDF / jump to Video)
 
-![look-potrait-DSC_1836.jpg](/uploads/look-potrait-DSC_1836.jpg)![look-potrait-DSC_2033.jpg](/uploads/look-potrait-DSC_2033.jpg)
+Presentation by Jianjun Qin, Tongji University, China: "Role of SHM in the Context of Service Life Integrity Management" (PDF / jump to Video)
