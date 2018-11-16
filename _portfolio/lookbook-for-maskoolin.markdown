@@ -4,9 +4,9 @@ date: 2018-11-16 03:49:00 Z
 permalink: "/lookbook-fashion-pria-maskoolin.html"
 categories:
 - photowork
-portfolioname: lookbook
+portfolioname: photowork
 punchline: Maskoolin fashion pria
-portfolioclient: Maskoolin
+portfolioclient: MASKOOLIN
 coverimage: "/uploads/portfolio-cover-empathy.jpg"
 layout: portfolio
 ---
