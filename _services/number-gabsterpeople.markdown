@@ -1,7 +1,8 @@
 ---
-title: "#GabsterPeople"
+title: 'Community #GabsterPeople'
 date: 2018-10-25 05:00:00 Z
 permalink: "/services/gabster-people.html"
+published: false
 categories:
 - services
 punchline: '"when you fail, just simply try again. don''t just quit."'
