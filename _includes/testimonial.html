@@ -3,9 +3,9 @@
         <div class="row no-gutters">
             <div class="col-12 position-inherit">
                 <div class="carousel-single owl-drag">
-                  {% assign testi = site.testimonials | sort:"date" | limit:3 %}
+                  {% assign testimonial = site.testimonials | sort:"date" | limit:3 %}
       
-                  {% for layanan in testi %}
+                  {% for testi in testimonial %}
                     <div class="item content-box blockquote bg-default padding-x3 mb-30">
                         <div class="circle mb-30">
                             <img class="img-fluid" src="{{testi.profilepic}}">
