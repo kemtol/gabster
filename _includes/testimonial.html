@@ -3,10 +3,12 @@
         <div class="row no-gutters">
             <div class="col-12 position-inherit">
                 <div class="carousel-single owl-drag">
-                  
+                  {% assign testi = site.testimonials | sort:"date" | limit:3 %}
+      
+                  {% for layanan in testi %}
                     <div class="item content-box blockquote bg-default padding-x3 mb-30">
                         <div class="circle mb-30">
-                            <img class="img-fluid" src="/images/testi/testi-alwin.jpeg">
+                            <img class="img-fluid" src="{{testi.profilepic}}">
                         </div>
                         <div class="inline-group mb-30">
                             <svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" class="icon svg-primary">
@@ -25,12 +27,13 @@
                                 <path d="m8 12-4.70228202 2.472136.89805595-5.23606802-3.80422606-3.70820393 5.25731112-.76393203 2.35114101-4.76393202 2.351141 4.76393202 5.2573111.76393203-3.804226 3.70820393.8980559 5.23606802z" fill="#fcc31c" fill-rule="evenodd"></path>
                             </svg>
                         </div>
-                        <h4 class="mb-30">Developing a fashion brand is not easy.Trends are changing ultra fast, and the economic situation is also unstable.</h4>
-                        <p>And so, in this kind of game, whoever gets the most information will win it. GFC helps me a lot in getting all this info. Whether it is about the upcoming trend, which e commerce is booming, what kind of style is selling, or how to grow your sales to the different generations from baby boomers to millennials. GFC knows it all. With GFC vast connections in fashion and relevant info, I have managed to grow Third Day from an unknown brand to a brand that anyone from gen x to millennials would wear. Sales has grown from 4 stores to 42 stores both online and offline and now we are thinking of expanding outside of Indonesia. GFC encourages me to keep growing bigger.</p>
-                        <p class="text-secondary blockquote-footer">Alwin Qiu, Third Day Co.</p>
+                        <h4 class="mb-30">{{testi.opener}}</h4>
+                        <p>{{testi.content}}</p>
+                        <p class="text-secondary blockquote-footer">{{testi.title}}</p>
                     </div>
+                {% endfor %}
                   
-                    <div class="item content-box blockquote bg-default padding-x3 mb-30">
+                    <!--<div class="item content-box blockquote bg-default padding-x3 mb-30">
                         <div class="circle mb-30">
                             <img class="img-fluid" src="/images/testi/testi-wilson.jpeg">
                         </div>
@@ -80,7 +83,7 @@
                         <h4 class="mb-30">Finding GFC is like finding a new best friend. You can share your thought, ideas, and dream.</h4>
                         <p>GFC helps me in so many ways to achieve my goals and dream: finally one of my dreams come true! I am launching my own clothing line. I believe GFC will help other people like me who doesn't have fashion background but have the courage to build a fashion brand. They have great fashion taste too!</p>
                         <p class="text-secondary blockquote-footer">Anastasia Winanti, Empathy </p>
-                    </div>
+                    </div>-->
                   
                 </div>
             </div>
