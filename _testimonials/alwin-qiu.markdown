@@ -1,9 +1,9 @@
 ---
-title: Developing a fashion brand is not easy.Trends are changing ultra fast, and
-  the economic situation is also unstable.
+title: Alwin Qiu, Third Day Co
 date: 2018-12-07 10:59:00 Z
 profilepic: "/images/testi/testi-alwin.jpeg"
-profilename: Alwin Qiu, Third Day Co.
+opener: Developing a fashion brand is not easy.Trends are changing ultra fast, and
+  the economic situation is also unstable.
 layout: page
 ---
 
