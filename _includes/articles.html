@@ -1,6 +1,9 @@
 {% assign uri = page.permalink %}
-{{ uri }}
+{% if uri == "/blogs/" %}
+<section id="blog-2col-3" class="posts pt-50 pb-100 pt-md-150 pb-md-150 light">
+{% else %}
 <section id="blog-2col-3" class="posts pt-50 pb-100 pt-md-100 pb-md-150 light">
+{% endif %}  
   <div class="container">
     <div class="row">
     <div class="col-12">
@@ -36,10 +39,12 @@
       </div>
     {% endfor %}  
       
+    {% if uri != "/blogs/" %}
+      <div class="col-12">
+        <a href="{{site.baseurl}}/blogs/" class="btn btn-primary yellow-btn">VIEW MORE</a>
+      </div>
+    {% endif %}  
       
-    <div class="col-12">
-      <a href="{{site.baseurl}}/blogs/" class="btn btn-primary yellow-btn">VIEW MORE</a>
-    </div>
     </div>
   </div>
   <div class="bg-wrap">
