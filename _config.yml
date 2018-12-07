@@ -14,6 +14,9 @@ collections:
   services:
     title: services
     output: true
+  testimonials:
+    title: testimonials
+    output: true
   trend:
     title: trend
     output: true
