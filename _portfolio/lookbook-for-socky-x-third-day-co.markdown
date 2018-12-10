@@ -7,6 +7,11 @@ categories:
 tags:
 - photoworks
 - lookbook
+portfolioname:
+- photowork
+punchline: Socky X Third Day Co.
+portfolioclient: Socky X Third Day Co.
+coverimage: "/uploads/DSC_6260.jpg"
 layout: portfolio
 ---
 
