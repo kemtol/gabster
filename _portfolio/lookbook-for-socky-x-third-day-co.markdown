@@ -1,10 +1,9 @@
 ---
 title: Lookbook For Socky X Third Day Co.
 date: 2018-12-10 09:47:00 Z
-permalink: "/photoworks/SockyXThirdDay"
+permalink: "/portfolio/lookbook-work-for-Socky-X-ThirdDay.html"
 categories:
 - photoworks
-- lookbook
 tags:
 - photoworks
 - lookbook
