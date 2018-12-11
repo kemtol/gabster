@@ -18,7 +18,7 @@ Bi-ensi Fesyenindo is a well-known fashion company in Indonesia. They own severa
 
 ![look-landscape-DSC_3010.jpg](/uploads/look-portrait-DSC_3010.jpg)![look-landscape-DSC_3011.jpg](/uploads/look-portrait-DSC_3011.jpg)
 
-3Second is one of the leading brands for millennials and today's generation that is located in Bandung. The brand was established 10 years ago and is committed to offering streetwear fashion.
+3Second is one of the leading brands for millennials and today's generation that is based in Bandung. The brand was established 10 years ago and is committed to offering streetwear fashion.
 
 ![look-landscape-DSC_1979.jpg](/uploads/look-landscape-DSC_1979.jpg)
 ![look-landscape-DSC_2347.jpg](/uploads/look-landscape-DSC_2347.jpg)
