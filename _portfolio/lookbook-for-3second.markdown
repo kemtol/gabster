@@ -11,7 +11,7 @@ coverimage: "/uploads/portfolio-cover-3second.jpg"
 layout: portfolio
 ---
 
-Bi-ensi Fesyenindo adalah salah satu perusahaan fashion terkemuka di Indonesia. Kami memiliki beberapa merk produk fashion di Indonesia yang cukup berkembang pesat di dalam bisnis fashion dan menguasai sebagian pangsa pasar produk fashion di Indonesia. Merk yang kami tawarkan adalah 3second, Greenlight, Moutley, Famo dan FMC Speed Supply
+Bi-ensi Fesyenindo is a well-known fashion company in Indonesia. They own several local brands that are rapidly developing in the fashion business and has gained a large audience in the Indonesian market. The brands that they offer are 3second, Greenlight, Moutley, Famo and FMC Speed Supply.
 
 ![look-landscape-DSC_2867.jpg](/uploads/look-landscape-DSC_2867.jpg)
 ![look-landscape-DSC_3036.jpg](/uploads/look-landscape-DSC_3036.jpg)
