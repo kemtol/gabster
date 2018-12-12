@@ -11,11 +11,15 @@ coverimage: "/uploads/portfolio-cover-empathy.jpg"
 layout: portfolio
 ---
 
+Empathy is a local brand that is inspired by sustainability and the ongoing issue of exploitative labor. Alongside working with local craftsmen, the brand wants to appreciate the Indonesian culture which is translated into a modern concept of mixing traditional fabric with street style. 
+
 ![look-landscape-DSC_2296.jpg](/uploads/look-landscape-DSC_2296.jpg)
 
 ![look-potrait-DSC_1134.jpg](/uploads/look-potrait-DSC_1134.jpg)![look-potrait-DSC_1267-2.jpg](/uploads/look-potrait-DSC_1267-2.jpg)
 
 ![look-potrait-DSC_1360.jpg](/uploads/look-potrait-DSC_1360.jpg)![look-potrait-DSC_1470.jpg](/uploads/look-potrait-DSC_1470.jpg)
+
+> They work closely with local craftsmen and highly values the people behind the production process. 
 
 ![look-potrait-DSC_1663.jpg](/uploads/look-potrait-DSC_1663.jpg)![look-potrait-DSC_1516.jpg](/uploads/look-potrait-DSC_1516.jpg)
 
