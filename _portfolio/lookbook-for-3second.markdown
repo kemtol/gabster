@@ -4,8 +4,11 @@ date: 2018-10-10 06:17:00 Z
 permalink: "/portfolio/lookbook-work-for-3second.html"
 categories:
 - photowork
-portfolioname: photowork
-punchline: Lorem ipsum dollor imet
+tags:
+- fashion
+- photoshoot
+portfolioname: Photoshoot
+punchline: 3SECOND Racer Collection
 portfolioclient: 3SECOND
 coverimage: "/uploads/portfolio-cover-3second.jpg"
 layout: portfolio
@@ -27,8 +30,5 @@ Bi-ensi Fesyenindo is a well-known fashion company in Indonesia. They own severa
 
 ![look-portrait-DSC_2725.jpg](/uploads/look-portrait-DSC_2725.jpg)![look-portrait-DSC_2682.jpg](/uploads/look-portrait-DSC_2682.jpg)
 
-## What can we learn from 3SECOND Lookbook
-
-Bi-ensi Fesyenindo dibangun dengan kegigihan dan focus untuk memberikan kualitas dan desain-desain terbaik. Didukung oleh tim-tim yang handal dan dukungan dari para partner kerja Bi-ensi Fesyenindo diharapkan mampu untuk memberikan kesempurnaan dalam setiap merk yang dikelolanya.
-
-Bi-ensi Fesyenindo dibangun dengan kegigihan dan focus untuk memberikan kualitas dan desain-desain terbaik. Didukung oleh tim-tim yang handal dan dukungan dari para partner kerja Bi-ensi Fesyenindo diharapkan mampu untuk memberikan kesempurnaan dalam setiap merk yang dikelolanya.
+## What We Did
+GABSTER was in charge of the creative direction for this lookbook. We ensured that the concept is suitable for the brand and collection so that it can be understood by the market.
