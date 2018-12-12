@@ -16,7 +16,5 @@ Socky and Third Day partnered up in doing a collaboration photoshoot for its col
 
 ![look-landscape-DSC_6260.jpg](/uploads/look-landscape-DSC_6260.jpg)
 
-Socky is an Indonesian socks brand that is all about freedom of expression mixed with modern and 'loud' designs that is translated into a basic necessity.
-
-
+Socky is an Indonesian socks brand that is all about freedom of expression mixed with modern and 'loud' designs that is translated into a basic necessity. Their mission is to create socks that stand out in a subtle and simple way, yet is bold in design with compliments of quality fabric.
 
