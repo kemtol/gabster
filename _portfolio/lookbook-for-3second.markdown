@@ -31,4 +31,4 @@ Bi-ensi Fesyenindo is a well-known fashion company in Indonesia. They own severa
 ![look-portrait-DSC_2725.jpg](/uploads/look-portrait-DSC_2725.jpg)![look-portrait-DSC_2682.jpg](/uploads/look-portrait-DSC_2682.jpg)
 
 ## What We Do Best
-GABSTER in charged of the creative direction for this lookbook. We ensure that the concept is suitable for the brand and collection so that it can catch the target audience attention and understood by the market. This theme is inspired by the racer trend that appears on many runway looks from Tommy Hilfigher to Fenty Puma and Versace.
+GABSTER in charged of the creative direction for this lookbook. We ensure that the concept is suitable for the brand and collection so that it can catch the target audience attention and understood by the market. This theme is inspired by the racer trend that appears on many runway looks from Tommy Hilfiger to Fenty Puma and Versace.
