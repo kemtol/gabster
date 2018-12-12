@@ -12,4 +12,11 @@ coverimage: "/uploads/DSC_6042.jpg"
 layout: portfolio
 ---
 
-![DSC_6260.jpg](/uploads/DSC_6260.jpg)(/uploads/look-landscape-DSC_6260.jpg)
+Socky and Third Day partnered up in doing a collaboration photoshoot for its collection. The outfit for this photoshoot was provided by Third Day and was paired up with Socky socks. The Socky x Never Too Lavish socks are also featured in this lookbook.
+
+![look-landscape-DSC_6260.jpg](/uploads/look-landscape-DSC_6260.jpg)
+
+Socky is an Indonesian socks brand that is all about freedom of expression mixed with modern and 'loud' designs that is translated into a basic necessity.
+
+
+
