@@ -4,8 +4,11 @@ date: 2018-10-10 05:39:00 Z
 permalink: "/lookbook-work-for-empathy.html"
 categories:
 - photowork
+tags:
+- fashion
+- photoshoot
 portfolioname: photowork
-punchline: Empathy batik streetwear
+punchline: Empathy Batik Streetwear
 portfolioclient: EMPATHY
 coverimage: "/uploads/portfolio-cover-empathy.jpg"
 layout: portfolio
@@ -28,3 +31,6 @@ Empathy is a local brand that is inspired by sustainability and the ongoing issu
 ![look-potrait-DSC_2161.jpg](/uploads/look-potrait-DSC_2161.jpg)![look-potrait-DSC_2198.jpg](/uploads/look-potrait-DSC_2198.jpg)
 
 ![look-potrait-DSC_1836.jpg](/uploads/look-potrait-DSC_1836.jpg)![look-potrait-DSC_2033.jpg](/uploads/look-potrait-DSC_2033.jpg)
+
+# What We Did
+It is important to let the market understand what the brand is about and to invite people's curiosity to know more about the brand's products. We handled the creative direction from A to Z to create a suitable lookbook that is able to translate the idea of the brand and showcase the products well to potential customers.
