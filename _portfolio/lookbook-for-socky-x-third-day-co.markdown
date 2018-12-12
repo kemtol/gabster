@@ -4,6 +4,10 @@ date: 2018-12-10 09:47:00 Z
 permalink: "/portfolio/lookbook-work-for-Socky-X-ThirdDay.html"
 categories:
 - photowork
+tags:
+- fashion
+- photoshoot
+- lookbook
 portfolioname:
 - photowork
 punchline: Socky X Third Day Co.
