@@ -7,7 +7,7 @@ categories:
 tags:
 - fashion
 - photoshoot
-portfolioname: Photoshoot
+portfolioname: photowork
 punchline: 3SECOND Racer Collection
 portfolioclient: 3SECOND
 coverimage: "/uploads/portfolio-cover-3second.jpg"
