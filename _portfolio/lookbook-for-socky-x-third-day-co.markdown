@@ -8,7 +8,7 @@ portfolioname:
 - photowork
 punchline: Socky X Third Day Co.
 portfolioclient: Socky X Third Day Co.
-coverimage: "/uploads/DSC_6042.jpg"
+coverimage: "/uploads/IMG_5648.JPG"
 layout: portfolio
 ---
 
