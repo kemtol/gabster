@@ -23,4 +23,5 @@ Socky is an Indonesian socks brand that is all about freedom of expression mixed
 Third Day Co. is inspired by the Japanese street culture and turns streetwear into a more subtle and general style. 
 
 ![look-landscape-DSC_5672.jpg](/uploads/look-landscape-DSC_5672.jpg)
+![look-landscape-DSC_6546-1066c9.jpg](/uploads/look-landscape-DSC_6546-1066c9.jpg)
 
