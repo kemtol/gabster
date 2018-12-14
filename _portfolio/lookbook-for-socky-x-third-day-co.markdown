@@ -25,9 +25,9 @@ Socky is an Indonesian socks brand that is all about freedom of expression mixed
 
 Third Day Co. is inspired by the Japanese street culture and turns streetwear into a more subtle and general style. 
 
-
 ![look-landscape-DSC_6517.jpg](/uploads/look-landscape-DSC_6517.jpg)
 ![look-landscape-DSC_6709.jpg](/uploads/look-landscape-DSC_6709.jpg)
+![look-landscape-DSC_6591-5d1cec.jpg](/uploads/look-landscape-DSC_6591-5d1cec.jpg)
 
 ## What We Do Best
 Gabster handled the creative direction for this photoshoot. We made sure to create a concept that is suitable for both brands and decided to turn it into a fun streetwear lookbook which was shot at a skatepark. The looks were styled accordingly to ensure that the products stood out and looks interesting for potential customers. 
