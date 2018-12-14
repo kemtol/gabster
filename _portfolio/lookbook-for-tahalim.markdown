@@ -1,7 +1,7 @@
 ---
 title: Lookbook For Tahalim
 date: 2018-12-14 07:47:00 Z
-permalink: "/portfolio/lookbook--for-tahalim.html"
+permalink: "/portfolio/lookbook-for-tahalim.html"
 categories:
 - photowork
 portfolioname: photowork
