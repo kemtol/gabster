@@ -5,6 +5,8 @@ categories:
 - photowork
 portfolioname: photowork
 punchline: Tahalim
+portfolioclient: Tahalim
+coverimage: "/uploads/IMG_5685.JPG"
 ---
 
 Tahalim is an elevated Japanese inspired streetwear brand. The brand mixes Japanese elements with the latest trend. All designs are focusing on details quality and unique silhouettes.
