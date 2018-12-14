@@ -4,6 +4,9 @@ date: 2018-12-14 07:47:00 Z
 permalink: "/portfolio/lookbook-for-tahalim.html"
 categories:
 - photowork
+tags:
+- photoshoot
+- fashion
 portfolioname: photowork
 punchline: Tahalim
 portfolioclient: Tahalim
