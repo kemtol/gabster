@@ -1,6 +1,10 @@
 ---
 title: Lookbook For Tahalim
 date: 2018-12-14 07:47:00 Z
+categories:
+- photowork
+portfolioname: photowork
+punchline: Tahalim
 ---
 
 Tahalim is an elevated Japanese inspired streetwear brand. The brand mixes Japanese elements with the latest trend. All designs are focusing on details quality and unique silhouettes.
