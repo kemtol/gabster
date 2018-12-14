@@ -24,5 +24,5 @@ Tahalim's mission is to support dreamers and believers in achieving their purpos
 ![look-portrait-DSC_5486.jpg](/uploads/look-portrait-DSC_5486.jpg)![look-portrait-DSC_4435.jpg](/uploads/look-portrait-DSC_4435.jpg)
 
 ## What We Do Best
-Gabster ensures to meet the clients' need from production to branding, including creating the lookbook. For this photoshoot, we created a suitable photoshoot concept based on the client's vision and handled the whole creative direction.
+Gabster ensures to meet the clients' need from production to branding, including creating the lookbook. For this photoshoot, we created a suitable concept based on the brand and client's vision and handled the whole creative direction.
 
