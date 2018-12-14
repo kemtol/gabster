@@ -1,5 +1,5 @@
 ---
-title: LOOKBOOK For 3SECOND
+title: Lookbook For 3SECOND
 date: 2018-10-10 06:17:00 Z
 permalink: "/portfolio/lookbook-work-for-3second.html"
 categories:
