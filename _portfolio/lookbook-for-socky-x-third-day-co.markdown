@@ -7,8 +7,7 @@ categories:
 tags:
 - photoshoot
 - fashion
-portfolioname:
-- photowork
+portfolioname: photowork
 punchline: Socky X Third Day Co.
 portfolioclient: Socky X Third Day Co.
 coverimage: "/uploads/IMG_5648.JPG"
