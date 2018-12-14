@@ -20,7 +20,7 @@ Socky and Third Day Co. partnered up in doing a collaboration photoshoot for its
 
 Socky is an Indonesian socks brand that is all about freedom of expression mixed with modern and 'loud' designs that is translated into a basic necessity. Their mission is to create socks that stand out in a subtle and simple way, yet is bold in design with compliments of quality fabric.
 
-![look-portrait-DSC_6309.jpg](/uploads/look-portrait-DSC_6309.jpg)![look-portrait-DSC_6042-393920.jpg](/uploads/look-portrait-DSC_6042-393920.jpg)
+![look-portrait-DSC_6309.jpg](/uploads/look-portrait-DSC_6309.jpg)![look-portrait-DSC_6042.jpg](/uploads/look-portrait-DSC_6042.jpg)
 
 Third Day Co. is inspired by the Japanese street culture and turns streetwear into a more subtle and general style. 
 
