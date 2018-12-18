@@ -290,9 +290,11 @@ section#portfolio-photowork {
 }
 
 #media-half-carousel{
+    background:#f7f7f7
     .owl-carousel{
         .owl-item{
             .item{
+                background:#f7f7f7 !important;
                 a{
                     display:block;
                     width:100%;
@@ -300,8 +302,9 @@ section#portfolio-photowork {
                     position:relative;
                     img{
                         position:absolute;
-                        top:0;
-                        left:0;
+                        transform: translate(-50%, -50%);
+                        top:50%;
+                        left:50%;
                     }
                 }
             }
