@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  media-coverage:
+    title: media coverage
+    output: true
   portfolio:
     title: portfolio
     output: true
