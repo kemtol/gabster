@@ -5,6 +5,9 @@ collections:
   featured-service:
     title: Featured Service
     output: true
+  footer:
+    title: Footer
+    output: true
   jumbotron:
     title: Jumbotron
     output: true
