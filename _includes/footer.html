@@ -29,8 +29,10 @@
 				<div class="instafeed" id="footer-text-instagram-instafeed"></div>
 			</div>
 			<div class="col-md mb-50">
-				<h4 class="mb-20"><strong>Gabster GFC</strong></h4>
-				<p class="text-secondary">We provide all things fashion related consultation from small MOQ Production, photoshoot, catalog photoworks, omni chanelling, offline to online sales conversion and distribution. We work with the best tools and the best partners.</p>
+				{% for footer in site.footer limit:1 %}
+				<h4 class="mb-20"><strong>{{footer.title}}</strong></h4>
+				{{footer.content}}
+				{% endfor %} 
 				<div class="sosmed-icons"><a href="https://www.instagram.com/{{site.instagram}}/" class="fab fa-instagram"></a><a href="" class="fab fa-youtube"></a><a href="" class="fab fa-facebook"></a></div>
 			</div>
 			</div>
