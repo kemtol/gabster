@@ -1,0 +1,33 @@
+<section id="media-half-carousel" class="pt-50 pb-50 pb-md-100 section-carousel gallery carousel-nav-left-bottom carousel-dots-none overall light">
+    <div class="container-fluid offset-left">
+        <div class="row">
+
+            <div class="col-12">
+                <h3>MEDIA COVERAGE </h3>
+                <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 100 20" width="100" class="mb-50 svg-primary">
+                    <path d="m0 9h100v2h-100z" fill-rule="evenodd"></path>
+                </svg>
+            </div>
+            <div class="col-12">
+
+                <div class="carousel-4item owl-drag">
+                    
+                    {% for media in site.media-coverage limit:5 %}
+                    
+                        <div class="item gallery-item gallery-style-5 text-right padding">
+                            <a href="{{site.baseurl}}{{ media.permalink }}">
+                                <img src="{{site.baseurl}}{{ media.company }}" alt="" class="item-img">
+                            </a>
+                            <div class="item-title">
+                                <p class="lead text-primary mb-0">{{ media.company }}</p>
+                                <p><strong>{{ media.company }}</strong></p>
+                            </div>
+                        </div>            
+                    
+                    {% endfor %} 	
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

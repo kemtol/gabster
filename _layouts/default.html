@@ -50,11 +50,14 @@
 			{% include testimonial.html %}
 
 			{% include homebrands.html %}
+
 		{% endif %}
 		
 		{{content}}
 		
-		{% include homemap.html %}
+		{% if page.ishome == true %}
+			{% include media-coverage.html %}
+		{% endif %}
 		
 		{% include footer.html %}
 	</div>
