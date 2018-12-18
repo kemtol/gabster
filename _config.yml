@@ -2,14 +2,11 @@
 title: Gabster
 timezone: UTC
 collections:
-  featured-service:
-    title: Featured Service
-    output: true
   jumbotron:
     title: Jumbotron
     output: true
-  media-coverage:
-    title: Media Coverage
+  featured-service:
+    title: Featured Service
     output: true
   portfolio:
     title: Portfolio
@@ -25,6 +22,9 @@ collections:
     output: true
   trend:
     title: Trend
+    output: true
+  media-coverage:
+    title: Media Coverage
     output: true
   uploads:
     title: Uploads
