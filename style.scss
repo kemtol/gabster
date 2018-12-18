@@ -290,7 +290,7 @@ section#portfolio-photowork {
 }
 
 #media-half-carousel{
-    background:#f7f7f7
+    background:#f7f7f7;
     .owl-carousel{
         .owl-item{
             .item{
@@ -311,6 +311,9 @@ section#portfolio-photowork {
         }
     }
 }
+
+
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
