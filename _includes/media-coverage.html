@@ -16,7 +16,7 @@
                     
                         <div class="item gallery-item gallery-style-5 text-right padding">
                             <a href="{{site.baseurl}}{{ media.permalink }}">
-                                <img src="{{site.baseurl}}{{ media.company }}" alt="" class="item-img">
+                                <img src="{{site.baseurl}}/uploads/logo-{{ media.company | downcase | replace: ' ','' }}.jpg" alt="" class="item-img">
                             </a>
                             <div class="item-title">
                                 <p class="lead text-primary mb-0">{{ media.company }}</p>
