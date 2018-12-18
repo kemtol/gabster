@@ -313,7 +313,16 @@ section#portfolio-photowork {
     }
 }
 
-
+.sosmed-icon{
+    a{
+        display: inline-block;
+        font-size: 32px;
+        margin-right: 1rem;
+    }
+    a:hover{
+        text-decoration:none;
+    }
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
