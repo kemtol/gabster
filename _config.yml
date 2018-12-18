@@ -9,19 +9,19 @@ collections:
     title: Uploads
     output: true
   media-coverage:
-    title: media coverage
+    title: Media Coverage
     output: true
   portfolio:
-    title: portfolio
+    title: Portfolio
     output: true
   services:
-    title: services
+    title: Services
     output: true
   testimonials:
-    title: testimonials
+    title: Testimonials
     output: true
   trend:
-    title: trend
+    title: Trend
     output: true
 name: Gabster GFC
 description: Fashion Consultant, Clothing Production, Indonesia Clothing Factory.
