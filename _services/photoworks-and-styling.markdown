@@ -9,7 +9,7 @@ servicename: photoworks & styling
 layout: service
 ---
 
-![just2.jpg](/uploads/just2.jpg)
+/uploads/look-landscape-just2.jpg
 
 
 ---
@@ -23,7 +23,7 @@ Our lookbook shoot package includes: model, make up artist, photographer, stylis
 
 ---
 
-## Get your product and lookbook content in 3 step
+## Get your product and lookbook content in 4 step
 1. Contact us for booking
 2. Share your concept and ideas
 3. We will assist you to arrange all
@@ -36,4 +36,6 @@ Our lookbook shoot package includes: model, make up artist, photographer, stylis
 ![look-portrait-diosa3.JPG](/uploads/look-portrait-diosa3.JPG)
 
 GFC assists local and international brands to showcase their branding through visual interpretation: lookbook campaign.
+
+---
 
