@@ -18,3 +18,6 @@ Just is an Indonesian brand that is inspired by a person's daily routine. They s
 
 Their casual wear collection is only available for women and ranges from top, dresses, bottoms, and outerwear for several occasions. 
 
+![look-portrait-just12.jpg](/uploads/look-portrait-just12.jpg)
+
+For the second collection, Just launched a winter or Christmas collection featuring clothes that are
