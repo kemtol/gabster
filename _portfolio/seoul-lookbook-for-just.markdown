@@ -22,5 +22,9 @@ Just is an Indonesian brand that is inspired by a person's daily routine. They s
 For the second collection, Just launched a winter or Christmas collection featuring clothes that are less casual.
 
 ![look-portrait-just8.jpg](/uploads/look-portrait-just8.jpg)![look-portrait-just1.jpg](/uploads/look-portrait-just1.jpg)
+![look-lanscape-just7.jpg](/uploads/look-lanscape-just7.jpg)
 
-All the pictures for this lookbook were all taken in Seoul, Korea. 
+All the pictures for this lookbook were taken in Seoul, Korea. 
+
+![look-portrait-just5.jpg](/uploads/look-portrait-just5.jpg)![look-portrait-just10.jpg](/uploads/look-portrait-just10.jpg)
+![look-portrait-just3.jpg](/uploads/look-portrait-just3.jpg)![look-portrait-just4.jpg](/uploads/look-portrait-just4.jpg)
