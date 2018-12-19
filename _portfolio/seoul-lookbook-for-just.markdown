@@ -7,7 +7,7 @@ categories:
 tags:
 - photoshoot
 - fashion
-photowork: portfolio
+portfolioname: photowork
 punchline: Just Winter Lookbook in Seoul
 portfolioclient: Just
 coverimage: "/uploads/IMG_5834.JPG"
@@ -19,3 +19,4 @@ Just is an Indonesian brand that is inspired by a person's daily routine. They s
 ![look-portrait-just12.jpg](/uploads/look-portrait-just12.jpg)
 
 Their casual wear collection is only available for women and ranges from top, dresses, bottoms, and outerwear for several occasions. 
+
