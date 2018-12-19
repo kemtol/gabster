@@ -20,7 +20,7 @@ Diosa is a local womenswear brand that is inspired by the modern life of a chic,
 
 > Diosa offers essential pieces that aims to give a beautiful and stylish look.
 
-[look-portrait-diosa2.JPG](/uploads/look-portrait-diosa2.JPG)[look-portrait-diosa3.JPG](/uploads/look-portrait-diosa3.JPG)
+![look-portrait-diosa3.JPG](/uploads/look-portrait-diosa3.JPG)![look-portrait-diosa2.JPG](/uploads/look-portrait-diosa2.JPG)
 
 ![look-portrait-95ed028c-08fa-4ad3-ad81-ad6634557dbd.JPG](/uploads/look-portrait-95ed028c-08fa-4ad3-ad81-ad6634557dbd.JPG)![look-portrait-348c6c75-7175-4112-adb5-1415fc921c7e.JPG](/uploads/look-portrait-348c6c75-7175-4112-adb5-1415fc921c7e.JPG)
 
