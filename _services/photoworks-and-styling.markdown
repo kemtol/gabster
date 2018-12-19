@@ -9,8 +9,7 @@ servicename: photoworks & styling
 layout: service
 ---
 
-/uploads/look-landscape-just2.jpg
-
+![look-landscape-just2.jpg](/uploads/look-landscape-just2.jpg)
 
 ---
 
