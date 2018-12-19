@@ -8,7 +8,7 @@ tags:
 - photoshoot
 - fashion
 portfolioname: photowork
-punchline: Just - Timeless Classic Seoul Campaign
+punchline: Just - Timeless Christmas Seoul Campaign
 portfolioclient: Just
 coverimage: "/uploads/IMG_5834.JPG"
 layout: portfolio
@@ -24,7 +24,7 @@ For the second collection, Just launched a winter or Christmas collection featur
 ![look-portrait-just8.jpg](/uploads/look-portrait-just8.jpg)![look-portrait-just1.jpg](/uploads/look-portrait-just1.jpg)
 ![look-lanscape-just7.jpg](/uploads/look-lanscape-just7.jpg)
 
-All the pictures for this lookbook were taken in Seoul, Korea. 
+Just goes to Seoul for their Timeless Christmas Collection 
 
 ![look-portrait-just5.jpg](/uploads/look-portrait-just5.jpg)![look-portrait-just10.jpg](/uploads/look-portrait-just10.jpg)
 ![look-portrait-just3.jpg](/uploads/look-portrait-just3.jpg)![look-portrait-just4.jpg](/uploads/look-portrait-just4.jpg)
