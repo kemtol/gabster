@@ -12,7 +12,7 @@
 
                 <div class="carousel-4item owl-drag">
                     
-                    {% for portfolio in site.portfolio limit:10 %}
+                    {% for portfolio in site.portfolio limit:10 | sort:"date" %}
                     
                         <div class="item gallery-item gallery-style-5 text-right padding">
                             <a href="{{site.baseurl}}{{ portfolio.permalink }}">
