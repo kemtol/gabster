@@ -28,3 +28,6 @@ All the pictures for this lookbook were taken in Seoul, Korea.
 
 ![look-portrait-just5.jpg](/uploads/look-portrait-just5.jpg)![look-portrait-just10.jpg](/uploads/look-portrait-just10.jpg)
 ![look-portrait-just3.jpg](/uploads/look-portrait-just3.jpg)![look-portrait-just4.jpg](/uploads/look-portrait-just4.jpg)
+
+## What We Do Best
+In November 2018, Gabster went to Seoul, Korea bringing products from several local brands to have a photoshoot. We worked together with a local photographer and made sure to pick the right model and locations for Just. It is important for us to create a good lookbook that can represent the collection well.
