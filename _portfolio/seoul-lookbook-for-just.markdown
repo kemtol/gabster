@@ -8,7 +8,7 @@ tags:
 - photoshoot
 - fashion
 portfolioname: photowork
-punchline: Just Winter Lookbook in Seoul
+punchline: Just - Timeless Classic Seoul Campaign
 portfolioclient: Just
 coverimage: "/uploads/IMG_5834.JPG"
 layout: portfolio
