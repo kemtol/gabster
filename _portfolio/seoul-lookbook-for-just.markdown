@@ -14,3 +14,8 @@ coverimage: "/uploads/IMG_5834.JPG"
 layout: portfolio
 ---
 
+Just is an Indonesian brand that is inspired by a person's daily routine. They started off by launching pajamas for men and women and have recently added casual wear to their line. 
+
+![look-portrait-just12.jpg](/uploads/look-portrait-just12.jpg)
+
+Their casual wear collection is only available for women and ranges from top, dresses, bottoms, and outerwear for several occasions. 
