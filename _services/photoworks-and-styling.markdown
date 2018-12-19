@@ -35,6 +35,7 @@ Our lookbook shoot package includes: model, make up artist, photographer, stylis
 ![look-portrait-diosa3.JPG](/uploads/look-portrait-diosa3.JPG)
 
 GFC assists local and international brands to showcase their branding through visual interpretation: lookbook campaign.
+Lookbook Campaign plays important role in showcasing brand identity to your target audience. Therefore, our job is to ensure that every campaign matches our client's brands brand direction. 
 
 ---
 
