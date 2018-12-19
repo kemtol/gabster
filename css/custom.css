@@ -302,7 +302,7 @@ section.dark, footer.dark, header.dark {
 	background-color: gold;
 }
 .dark .owl-dot>span.light, .light .owl-dot>span, .dark .light .owl-dot>span, .owl-dot>span.light {
-	border-color: #D1D7DD;
+	border-color: #fff;
 }
 .light .owl-dot>span.dark, .dark .owl-dot>span, .light .dark .owl-dot>span, .owl-dot>span.dark {
 	border-color: #444;
