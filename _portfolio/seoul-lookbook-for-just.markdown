@@ -20,4 +20,6 @@ Their casual wear collection is only available for women and ranges from top, dr
 
 ![look-portrait-just12.jpg](/uploads/look-portrait-just12.jpg)
 
-For the second collection, Just launched a winter or Christmas collection featuring clothes that are
+For the second collection, Just launched a winter or Christmas collection featuring clothes that are less casual.
+
+![look-portrait-just8.jpg](/uploads/look-portrait-just8.jpg)![look-portrait-just1.jpg](/uploads/look-portrait-just1.jpg)
