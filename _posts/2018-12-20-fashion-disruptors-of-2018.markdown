@@ -16,5 +16,7 @@ We have rounded up this year's fashion disruptors. So, keep reading to look back
 ## Hedi Slimane as Celine's New Creative Director
 ![hedi-slimane-1537868992.jpg](/uploads/hedi-slimane-1537868992.jpg)
 
-Last year, Phoebe Philo announced that she was leaving Celine after a decade and on February 1, Hedi Slimane officially joined Celine as artistic, creative and image director. This sparked some questions, especially because he is best known for menswear.
+Last year, Phoebe Philo announced that she was leaving Celine after a decade and on February 1, Hedi Slimane officially joined Celine as artistic, creative and image director. This sparked some questions, especially because he is best known for menswear, as he created Dior Homme in 2000 and later in 2012 returned to Yves Saint Laurent where he was in charge of womenswear and menswear and renamed the line Saint Laurent.
+
+
 
