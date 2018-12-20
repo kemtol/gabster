@@ -24,6 +24,21 @@ Hedi Slimane debuted his first collection for Celine during the Spring 2019 Read
 
 ## Kim Jones as Dior Homme's New Artistic Director
 ![unnamed.jpg](/uploads/unnamed.jpg)
-On March 19, 2018, Kim Jones was announced to replace Kris Van Assche as artistic director of Dior Homme. Kim Jones left Louis Vuitton in January and is well known in fashion with a big number of followers on Instagram and famous friends. 
+
+Kim Jones left Louis Vuitton in January 2018 and joined Dior Homme in April, replacing Kris Van Asshe as artistic director. Because of his streetwear credibility, Instagram followers and famous friends, Dior Homme was certain that he was the best choice to revamp the brand.
+
+For his debut collection, Jones took over the Garde républicaine in Paris during the Spring 2019 menswear show. The show featured many Dior references such as a bee motif, a fabric intended to represent the former studio of founder Christian Dior, a rose pattern honoring Dior’s flower of - as well as, new silhouettes and collaborations with Alyx for the accessories and Kaws for the decoration. A huge number of highly influential people attended the show and even on the runway designers including Yoon Ahn were present. 
+
+Dior Homme or now called Dior Men has significantly been going through a transformation. For the Pre-fall 2019 show, several brands including Dior Men turned to Tokyo. There, Jones assigned Japanese artist Hajime Sorayama to create a 40-foot female robot to sit on stage. The show was very futuristic with metallic jackets and polished metal saddle bags on the runway. But, he said that his inspiration derived from the history of Dior itself and Japan. This show was another successful show that was attended by many influential people and received many positive feedbacks from people all over social media.
+
+
+
+
+
+
+
+
+
+
 
 
