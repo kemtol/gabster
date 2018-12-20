@@ -13,4 +13,8 @@ In 2018 we had some major fashion disruptors, from the change of creative direct
 
 We have rounded up this year's fashion disruptors. So, keep reading to look back on this year in fashion.
 
-## 
+## Hedi Slimane as Celine's New Creative Director
+![hedi-slimane-1537868992.jpg](/uploads/hedi-slimane-1537868992.jpg)
+
+Last year, Phoebe Philo announced that she was leaving Celine after a decade and on February 1, Hedi Slimane officially joined Celine as artistic, creative and image director. This sparked some questions, especially because he is best known for menswear.
+
