@@ -49,6 +49,17 @@ In 2017 AMBUSH® was selected as one of the top 8 finalists for the LVMH PRIZE. 
 
 In 2018, AMBUSH® presented the brand's first fashion show at Amazon Fashion Week Tokyo. Later in April, Kim Jones appointed YOON as jewelry designer for Dior Homme and her first creations were debuted with the SS2019 collection in Paris. In November, Nike and Ambush announced their collaboration which became highly anticipated by their fans.
 
+## Rihanna's SAVAGE x FENTY
+![Rihanna.jpg](/uploads/Rihanna.jpg)
+
+In March 2018, rumors spread about Rihanna expanding her Fenty empire into a lingerie line. And soon after, Rihanna posted campaign teasers of the Savage x Fenty collection, and many were excitedly waiting for the launch. 
+
+The first Savage x Fenty drop was on May 11 with 90 pieces of lingerie, sleepwear, accessories and four capsule collections. The core collection, "On the Reg", includes everyday essentials like T-shirt bras and underwear. The "Damn" range is all about sassy bodysuits, suspenders and more. Then there's "Black Widow" which is more "risqué and ultra sexy", and the "Xccesories", which hips, marabou-covered handcuffs, and lacy eye masks. “Cute and edgy can live in the same collection. The line dares you to try something new while completely remaining authentic to yourself," she explains.
+
+Inclusivity has been a benchmark of all Rihanna's previous works and so is Savage x Fenty. The bras are available from a 32A to 44DD, with lingerie, underwear and loungewear coming in sizes from XS to 3XL. The brand lives up to their motto of "savages come in all shapes and sizes" as they celebrate diversity.
+
+Today's market need exactly what the brand has been doing. Inclusivity. With the launch of Savage x Fenty, she has changed the lingerie game by proving that customers now want to see diversity in the campaign and branding so that they can relate more. Rather than the old lingerie branding, of using girls that meet the males' expectations.
+
 
 
 
