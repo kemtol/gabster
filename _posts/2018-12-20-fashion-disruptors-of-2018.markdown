@@ -18,5 +18,10 @@ We have rounded up this year's fashion disruptors. So, keep reading to look back
 
 Last year, Phoebe Philo announced that she was leaving Celine after a decade and on February 1, Hedi Slimane officially joined Celine as artistic, creative and image director. This sparked some questions, especially because he is best known for menswear, as he created Dior Homme in 2000 and later in 2012 returned to Yves Saint Laurent where he was in charge of womenswear and menswear and renamed the line Saint Laurent.
 
+Just like what he did with Saint Laurent, in September, Celine debuted its new logo that is influenced by the original design from the 1960s with a modernist typography from the 1930s resulting in the accent on the ‘E’ being removed and the spacing between the letters tightened to create a balanced and simplified logo. This change received mixed opinions from people all over social media.
+
+Hedi Slimane debuted his first collection for Celine during the Spring 2019 Ready-to-Wear show in Paris and Celine fans were not happy about it. For some, the problem was that Slimane had drastically changed the aesthetic and is very similar to his work at Saint Laurent.
+
+
 
 
