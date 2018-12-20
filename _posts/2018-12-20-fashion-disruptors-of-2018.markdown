@@ -22,6 +22,7 @@ Just like what he did with Saint Laurent, in September, Celine debuted its new l
 
 Hedi Slimane debuted his first collection for Celine during the Spring 2019 Ready-to-Wear show in Paris and Celine fans were not happy about it. For some, the problem was that Slimane had drastically changed the aesthetic and is very similar to his work at Saint Laurent.
 
-
+## Kim Jones as Dior Homme's New Artistic Director
+![unnamed.jpg](/uploads/unnamed.jpg)
 
 
