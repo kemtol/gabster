@@ -12,8 +12,12 @@ isHome: false
         Written on {{ page.date | date: "%B %e, %Y" }}
       </div>
 
-      <div class="col-xs-12 col-md-7 entry">
+      <div class="col-12 col-md-7 entry">
         {{ content }}
+      </div>
+      
+      <div class="col-12 col-md-3">
+        {% include articles.html %}
       </div>
       
       <div class="col-xs-12">
