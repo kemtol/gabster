@@ -40,8 +40,8 @@ Virgil Abloh debuted his first collection for Louis Vuitton at the Men's Spring 
 
 For the next Louis Vuitton collection, Virgil Abloh confirmed that the brand will celebrate Michael Jackson. No further information has been announced. 
 
-
-
+## Ambush' Breakthrough 
+![Verbal__Yoon.jpg](/uploads/Verbal__Yoon.jpg)
 
 
 
