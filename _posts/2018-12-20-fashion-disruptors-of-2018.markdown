@@ -49,7 +49,7 @@ In 2017 AMBUSH® was selected as one of the top 8 finalists for the LVMH PRIZE. 
 
 In 2018, AMBUSH® presented the brand's first fashion show at Amazon Fashion Week Tokyo. Later in April, Kim Jones appointed YOON as jewelry designer for Dior Homme and her first creations were debuted with the SS2019 collection in Paris. In November, Nike and Ambush announced their collaboration which became highly anticipated by their fans.
 
-## Rihanna's SAVAGE x FENTY
+## Rihanna's Savage x Fenty
 ![30841271_438306656610077_2468621062846283776_n.jpg](/uploads/30841271_438306656610077_2468621062846283776_n.jpg)
 In March 2018, rumors spread about Rihanna expanding her Fenty empire into a lingerie line. And soon after, Rihanna posted campaign teasers of the Savage x Fenty collection, and many were excitedly waiting for the launch. 
 
