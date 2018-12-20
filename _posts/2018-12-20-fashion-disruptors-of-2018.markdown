@@ -24,5 +24,6 @@ Hedi Slimane debuted his first collection for Celine during the Spring 2019 Read
 
 ## Kim Jones as Dior Homme's New Artistic Director
 ![unnamed.jpg](/uploads/unnamed.jpg)
+On March 19, 2018, Kim Jones was announced to replace Kris Van Assche as artistic director of Dior Homme. Kim Jones left Louis Vuitton in January and is well known in fashion with a big number of followers on Instagram and famous friends. 
 
 
