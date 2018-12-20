@@ -10,7 +10,7 @@
 // overide kemal
 
 h1{
-    @include mobile{
+    @include mobile {
         font-size:2rem;
     }
 }
@@ -120,6 +120,10 @@ h1{
         padding: 4rem;
         background: yellow;
         margin-bottom: 2.5rem;
+    }
+    
+    img{
+        max-width:100%;
     }
 }
 
