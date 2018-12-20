@@ -43,6 +43,11 @@ For the next Louis Vuitton collection, Virgil Abloh confirmed that the brand wil
 ## Ambush' Breakthrough 
 ![Verbal__Yoon.jpg](/uploads/Verbal__Yoon.jpg)
 
+AMBUSH® is a Tokyo based brand by VERBAL and YOON that began as an experimental line of jewelry. The iconic trademark POW!® motif in particular received media coverage around the world. Later, they evolved into designing unisex collections. The brand made its Paris debut in 2015 with VERBAL & YOON being listed as two of Business of Fashion’s Top 500 people influencing the global fashion industry in 2015, 2016 and 2017.
+
+In 2017 AMBUSH® was selected as one of the top 8 finalists for the LVMH PRIZE. Their success has led them to several collaborations that include Louis Vuitton (Kim Jones), sacai, UNDERCOVER, Off-White, SHU UEMURA, and Nike.
+
+In 2018, AMBUSH® presented the brand's first fashion show at Amazon Fashion Week Tokyo. Later in April, Kim Jones appointed YOON as jewelry designer for Dior Homme and her first creations were debuted with the SS2019 collection in Paris. In November, Nike and Ambush announced their collaboration which became highly anticipated by their fans.
 
 
 
