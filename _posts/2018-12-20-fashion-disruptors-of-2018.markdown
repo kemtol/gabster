@@ -8,7 +8,7 @@ categories:
 layout: post
 ---
 
-![Dior-Homme-Menswear-SS19-Paris-9164-1024x683-ef9b12.jpg](/uploads/Dior-Homme-Menswear-SS19-Paris-9164-1024x683-ef9b12.jpg)
+![Dior-Homme-Menswear-SS19-Paris-9164-1024x683.png](/uploads/Dior-Homme-Menswear-SS19-Paris-9164-1024x683.png)
 
 In 2018 we had some major fashion disruptors, from the change of creative directors to Rihanna's new lingerie brand that revamped the whole fashion industry. 
 
