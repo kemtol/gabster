@@ -108,10 +108,12 @@ h1{
 }
 
 .PageNavigation{
-    display:block;
-    padding:5px 1rem;
-    margin-top:10rem;
-    border-bottom:1px solid #ccc;
+    display: block;
+    padding: 10px 2rem;
+    margin-top: 6.5rem;
+    margin-bottom: 5rem;
+    font-size: 14px;
+    background: #f9f9f9;
     .prev{float:left}
     .next{float:right}
     .clearfix{clear:both}
