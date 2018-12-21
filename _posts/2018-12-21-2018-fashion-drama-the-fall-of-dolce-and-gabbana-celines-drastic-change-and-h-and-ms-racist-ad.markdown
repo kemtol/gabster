@@ -2,6 +2,11 @@
 title: '2018 Fashion Drama: The Fall of Dolce & Gabbana, Celine''s Drastic Change
   and H&M''s Racist Ad'
 date: 2018-12-21 07:32:00 Z
+permalink: "/2018-fashion-drama.html"
+categories:
+- journal
+author: Diandra Israhmaniar
+layout: post
 ---
 
 ![dolce-gabbana-chopsticks-chinese-ad-racist-(1).png](/uploads/dolce-gabbana-chopsticks-chinese-ad-racist-(1).png)
