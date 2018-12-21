@@ -8,7 +8,7 @@
 				{% assign serves = site.services | sort:"date" %}
 
 				{% for layanan in serves %}
-					<li><a href="{{ site.baseurl }}{{ layanan.permalink }}">{{ layanan.servicename }}</a></li>
+					<li><a href="{{ site.baseurl }}{{ layanan.permalink }}">{{ layanan.servicename | capitalize }}</a></li>
 
 				{% endfor %}
 					
