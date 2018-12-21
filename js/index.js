@@ -189,7 +189,6 @@ var userFeed = new Instafeed({
     links: false
 });
 userFeed.run();
-
+*/
 
 });
-*/
