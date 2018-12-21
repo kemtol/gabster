@@ -5,6 +5,7 @@ date: 2018-12-20 06:54:00 Z
 permalink: "/fashion-disruptors-of-2018.html"
 categories:
 - journal
+author: Diandra Israhmaniar
 layout: post
 ---
 
