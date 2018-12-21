@@ -13,7 +13,7 @@ layout: post
 
 In 2018 we had some major fashion disruptors, from the change of creative directors to Rihanna's new lingerie brand that revamped the whole fashion industry. 
 
-We have rounded up this year's fashion disruptors. So, keep reading to look back on this year in fashion.
+GABSTER Fashion Consulting has rounded up this year's fashion disruptors. So, keep reading to look back on this year in fashion.
 
 ## Hedi Slimane as Celine's New Creative Director
 ![hedi-slimane-1537868992.jpg](/uploads/hedi-slimane-1537868992.jpg)
