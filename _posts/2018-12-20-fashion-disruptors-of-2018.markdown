@@ -1,5 +1,6 @@
 ---
-title: Fashion Disruptors of 2018
+title: 'Fashion Disruptors of 2018: From Hedi Slimane, Kim Jones, Virgil Abloh, Ambush
+  To Rihanna'
 date: 2018-12-20 06:54:00 Z
 permalink: "/fashion-disruptors-of-2018.html"
 categories:
@@ -49,8 +50,9 @@ In 2017 AMBUSH® was selected as one of the top 8 finalists for the LVMH PRIZE. 
 
 In 2018, AMBUSH® presented the brand's first fashion show at Amazon Fashion Week Tokyo. Later in April, Kim Jones appointed YOON as jewelry designer for Dior Homme and her first creations were debuted with the SS2019 collection in Paris. In November, Nike and Ambush announced their collaboration which became highly anticipated by their fans.
 
-## Rihanna's Savage x Fenty
-![30841271_438306656610077_2468621062846283776_n.jpg](/uploads/30841271_438306656610077_2468621062846283776_n.jpg)
+## Rihanna's SAVAGE x FENTY
+![Rihanna.jpg](/uploads/Rihanna.jpg)
+
 In March 2018, rumors spread about Rihanna expanding her Fenty empire into a lingerie line. And soon after, Rihanna posted campaign teasers of the Savage x Fenty collection, and many were excitedly waiting for the launch. 
 
 The first Savage x Fenty drop was on May 11 with 90 pieces of lingerie, sleepwear, accessories and four capsule collections. The core collection, "On the Reg", includes everyday essentials like T-shirt bras and underwear. The "Damn" range is all about sassy bodysuits, suspenders and more. Then there's "Black Widow" which is more "risqué and ultra sexy", and the "Xccesories", which hips, marabou-covered handcuffs, and lacy eye masks. “Cute and edgy can live in the same collection. The line dares you to try something new while completely remaining authentic to yourself," she explains.
