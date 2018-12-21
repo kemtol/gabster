@@ -117,6 +117,9 @@ h1{
     .prev{float:left}
     .next{float:right}
     .clearfix{clear:both}
+    @include mobile {
+        margin-top:4.5rem;
+    }
 }
 
 .post{
