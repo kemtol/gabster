@@ -18,3 +18,5 @@ Anye is a clothing store based in Indonesia that is established in 2015 by Wendi
 
 ![look-landscape-anye18.jpg](/uploads/look-landscape-anye18.jpg)
 ![look-portrait-anye1.jpg](/uploads/look-portrait-anye1.jpg)![look-portrait-anye2.jpg](/uploads/look-portrait-anye2.jpg)
+
+>Their collections aim to spread a positive message using writings such as "Love", "Forgive", "Tolerance" and "Peace".
