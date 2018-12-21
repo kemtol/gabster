@@ -32,6 +32,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+    - scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: "gabstersays"
 name: Gabster GFC
 description: Fashion Consultant, Clothing Production, Indonesia Clothing Factory.
 avatar: 
