@@ -38,7 +38,7 @@ defaults:
     type: posts
   values:
     layout: post
-    author: "gabstersays"
+    author: gabstersays
 name: Gabster GFC
 description: Fashion Consultant, Clothing Production, Indonesia Clothing Factory.
 avatar: 
