@@ -27,4 +27,19 @@ The backlash came in hours after Colin Kaepernick, tweeted that he will be starr
 Despite the backlash that they have received, many showed support and respect towards the company for the diverse figure in its campaign. Nike has also experienced a rocket increase in sales since this ad.
 
 ## Celine's Drastic Change From Phoebe Philo to Hedi Slimane
+![a9c09d35c53ad78fd9a6616da2ecdb8c.jpeg](/uploads/a9c09d35c53ad78fd9a6616da2ecdb8c.jpeg)
 
+On February 1, Hedi Slimane joined Celine as artistic, creative and image director. Then, in September he made his first change to the French luxury label's logo, CÉLINE is now CELINE. He was inspired by the original Celine design from the 1960s with a modernist typography from the 1930s. The accent on the "E" has been removed and the spacing between the letters has been tightened, creating a "simplified and more balanced proportion." But many people were not happy with this change as it seems to lose Celine's authenticity.
+
+Hedi Slimane dubuted his first collection for Celine during the Spring 2019 Ready-to-Wear show and the reactions to the show were mixed with many pointing out that the clothes looked similar to Slimane's previous designs for Saint Laurent. Vanessa Friedman, at the Times, wrote that the show was a boring retread of things that Slimane has done before and many blamed Slimane's single-minded vision, claiming that he is "the Donald Trump of fashion."
+
+Fans believe that Celine's vital energy has been lost along with the accent mark. The collection is far from Phoebe Philo's structured clothings for the sophisticated woman who shows up to do the work that is loved by many.
+
+## Dolce & Gabbana's Racist Campaign
+![DOLCE-LADY-1240x852.jpg](/uploads/DOLCE-LADY-1240x852.jpg)
+
+To promote its upcoming fashion show in China, Dolce & Gabbana created a campaign that sparked contoversy about racism. The campaign features an Asian model struggling to eat Italian food with chopsticks. Following this, screenshots of direct messages from Stefano Gabbana in conversation with a follower were posted online showing the designer calling Chinese people "Ignorant Dirty Smelling Mafia" and saying they eat dogs. The brand claims that both Gabbana and its official Instagram account were hacked.
+
+This caused outrage, especially in China and followers were not happy with everything from the outdated decor to the stereotypical interpretation. One video in particular shows the model attempting to eat a cannoli with the male narrator asking the female model "Is it too huge for you?" and the subtitle referred to chopsticks as a small stick tool while Italian food is great and tasty, which many people feel the brand is arrogant about its culture.
+
+This has caused a big problem for Dolce & Gabbana. The upcoming fashion show in Shanghai got cancelled by the Cultural Affairs Bureau of Shanghai and the brand has been dropped from many retailers such as Net-a-Porter, Yook, Alibaba, JD, Secoo and more. Though the pair have posted an apology video towards Chinese people, the majority are still not happy about them.
