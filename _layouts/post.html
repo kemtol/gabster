@@ -17,13 +17,13 @@ isHome: false
       </div>
       
       <div class="col-12 col-md-3">
-        {% for post in site.posts limit:10 %}
         <ul class="post-list">
+        {% for post in site.posts limit:10 %}
           {% if post.title != page.title %}
           <li><a href="{{site.baseurl}}{{post.permalink}}">{{post.title}}</a></li>
           {% endif %}
-        </ul>
         {% endfor %}
+        </ul>
       </div>
       
       <div class="col-xs-12">
