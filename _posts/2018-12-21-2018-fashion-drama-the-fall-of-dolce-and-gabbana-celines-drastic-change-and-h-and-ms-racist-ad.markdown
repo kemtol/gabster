@@ -11,7 +11,7 @@ layout: post
 
 ![dolce-gabbana-chopsticks-chinese-ad-racist-(1).png](/uploads/dolce-gabbana-chopsticks-chinese-ad-racist-(1).png)
 
-2018 is the year of drama, drama, drama. From controversial and racist advertisements to the drastic change of Celine. We, at GABSTER Fashion Consulting, have curated all the dramas for you to look back at.
+2018 is the year of drama, drama, drama. From controversial and racist advertisements to the drastic change of Celine. We, at GABSTER Fashion Consulting, have curated all the dramas for you to reminisce.
 
 ## H&M's Racist Ad
 ![104933657-8F1FF55C-BD97-4D05-822D-2D64AC8A4D5B.1910x1000.jpg](/uploads/104933657-8F1FF55C-BD97-4D05-822D-2D64AC8A4D5B.1910x1000.jpg)
