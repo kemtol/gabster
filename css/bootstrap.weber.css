@@ -7981,6 +7981,7 @@ svg.icon {
 .gallery-item .item-title > *:first-child {
     margin-top: 0;
 	color:#fff;
+	font-size:16px;
 }
 
 .gallery-item .item-title > *:last-child {
