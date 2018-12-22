@@ -15,7 +15,11 @@
                     {% for media in site.media-coverage limit:5 %}
                     
                         <div class="item gallery-item gallery-style-5 text-right padding">
+                            {% if media.link %}
+                            <a href="{{site.baseurl}}{{ media.link }}">
+                            {% else %}
                             <a href="{{site.baseurl}}{{ media.permalink }}">
+                            {% endif %}
                                 <img src="{{site.baseurl}}/uploads/logo-{{ media.company | downcase | replace: ' ','' }}.jpg" alt="" class="item-img">
                             </a>
                             <div class="item-title">
