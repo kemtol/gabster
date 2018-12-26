@@ -29,3 +29,6 @@ Hassenda has been in the Indonesian garment industry for around 25 years and is 
 ![look-landscape-hassenda16.jpg](/uploads/look-landscape-hassenda16.jpg)
 ![look-portrait-hassenda11.jpg](/uploads/look-portrait-hassenda11.jpg)![look-portrait-hassenda9.jpg](/uploads/look-portrait-hassenda9.jpg)
 ![look-portrait-hassenda14.jpg](/uploads/look-portrait-hassenda14.jpg)![look-portrait-hassenda13.jpg](/uploads/look-portrait-hassenda13.jpg)
+
+## What We Do Best
+GABSTER went to Seoul, Korea in November 2018 to do their first lookbook shot in Korea, bringing local brands global. We work together with local photographers and make sure we pick the right models, location and concept for Hassenda and Otto Ono. We ensure to create a suitable lookbook based on the brand and collection.
