@@ -19,3 +19,7 @@ Hassenda is an Indonesian brand that focuses on womenswear and menswear. The bra
 ![look-landscape-hassenda17.jpg](/uploads/look-landscape-hassenda17.jpg)
 ![look-portrait-hassenda1.jpg](/uploads/look-portrait-hassenda1.jpg)![look-portrait-hassenda2.jpg](/uploads/look-portrait-hassenda2.jpg)
 
+Oto Ono is the second line of Hassenda that mainly focuses on menswear. The selection of clothing offered are less casual and are targeted towards an older audience than Hassenda. 
+
+![look-portrait-hassenda4.jpg](/uploads/look-portrait-hassenda4.jpg)![look-portrait-hassenda8.jpg](/uploads/look-portrait-hassenda8.jpg)
+![look-portrait-hassenda5.jpg](/uploads/look-portrait-hassenda5.jpg)![look-portrait-hassenda6.jpg](/uploads/look-portrait-hassenda6.jpg)
