@@ -8,7 +8,7 @@ tags:
 - photoshoot
 - fashion
 portfolioname: photowork
-punchline: Hassenda and Otto Ono Seoul Lookbook
+punchline: Hassenda and Otto Ono - Seoul
 portfolioclient: Hassenda and Otto Ono
 coverimage: "/uploads/look-landscape-hassenda15.jpg"
 layout: portfolio
