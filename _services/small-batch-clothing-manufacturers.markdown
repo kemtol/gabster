@@ -1,5 +1,5 @@
 ---
-title: Small Batch Clothing Manufacturers
+title: Small Batch Clothing Production
 date: 2018-10-23 06:23:00 Z
 permalink: "/services/small-low-moq-apparel-clothing-production.html"
 categories:
@@ -17,8 +17,7 @@ We do sample making and small quantity manufacturing with a minimum of 6 per sty
 
 ---
 
-![services-production.jpg](/uploads/services-production.jpg)
-
+![look-landscape-DSC_2296-tes.jpg](/uploads/look-landscape-DSC_2296-tes.jpg)
 ---
 
 ## Get your product ready in 3 steps
