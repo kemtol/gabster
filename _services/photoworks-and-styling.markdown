@@ -4,7 +4,7 @@ date: 2018-10-25 04:09:00 Z
 permalink: "/services/photoworks-styling.html"
 categories:
 - services
-punchline: includes styling guide brand direction
+punchline: Styling Guide & Creative Direction
 servicename: photoworks & styling
 layout: service
 ---
