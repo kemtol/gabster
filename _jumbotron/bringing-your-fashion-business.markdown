@@ -11,6 +11,6 @@ cta:
 image: "/images/bg-62.jpg"
 ---
 
-A to Z solutions for fashion brands and entrepreneurs who wants to start a fashion brand.
+A to Z solutions for local and international fashion brands and entrepreneurs who wants to start a fashion brand.
 
 Fashion consulting strategies from branding, sales, to merchandising, small MOQ production, fabric sourcing, local and overseas lookbook shoot, E-Commerce catalog photoshoot, overseas distribution, and fashion event activation and organizer.
