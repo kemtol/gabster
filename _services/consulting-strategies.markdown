@@ -4,8 +4,8 @@ date: 2018-10-25 03:43:00 Z
 permalink: "/services/consulting-strategies.html"
 categories:
 - services
-punchline: branding, merchandising, sales, marketing, social media, e commerce, offline
-  retail, strategies and management fashion event
+punchline: Creative Direction, merchandising, sales, marketing, social media, e commerce,
+  offline retail, strategies and management fashion event
 servicename: consulting
 layout: service
 ---
@@ -23,3 +23,7 @@ Our expert can assist you with your fashion confusion needs. We provide strategi
 ---
 
 ## Creative Direction
+
+![portfolio-cover-3second.jpg](/uploads/portfolio-cover-3second.jpg)
+
+GFC assists clients in the creative direction of the brand. We can help with the development of a collection up to the concept creation of the lookbook or campaign.
