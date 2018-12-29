@@ -33,5 +33,9 @@ For the first time in 80 years, Balmain is rebranding and coming out with a new 
 Lastly, Celine debuted its new logo under artistic, creative and image director Hedi Slimane. The french luxury label’s new logo is influenced by the original design from the 1960s with a modernist typography from the 1930s resulting in the accent on the ‘E’ being removed and the spacing between the letters tightened to create a balanced and simplified logo.
 
 ## Unexpected Collaborations
+![us-launch-kim-jones-capsule-collection_mobile_share.jpg](/uploads/us-launch-kim-jones-capsule-collection_mobile_share.jpg)
 
+In 2018, we had some unexpected collaborations coming from classic brands partnering up with streetwear brands to a furniture company with a clothing brand. 
+
+One of the least expected collaborations was between Palace and Polo Ralph Lauren. This was the first time that Polo Ralph Lauren collaborated with a streetwear brand because they aimed to be more relatable to the current market. 
 
