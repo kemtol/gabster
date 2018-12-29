@@ -40,4 +40,6 @@ In 2018, we had some unexpected collaborations coming from classic brands partne
 
 One of the least expected collaborations was between Palace and Polo Ralph Lauren. This was the first time that Polo Ralph Lauren collaborated with a streetwear brand because they aimed to be more relatable to the current market. The other classic x streetwear brand collaboration was between Kith and Tommy Hilfiger.  Kith dug into Hilfiger’s archive and redesigned classic and rarest pieces through a modern lens. 
 
-Following their Spring/Summer 2018 collaboration, Supreme and Levis also released a new exclusive collection for the Fall/Winter 2018 collection with six styles. 
+Following their Spring/Summer 2018 collaboration, Supreme and Levis released a new exclusive collection for the Fall/Winter 2018 collection with six styles. Alexander Wang and Uniqlo also collaborated on creating a unisex line that used Heattech fabric and includes bodysuits, T-shirts, leggings, bras, and briefs for men and women. 
+
+The oddest collaboration though this year was by Ikea and Off-White. The range of furniture was designed by Virgil Abloh in which he added the signature Off-White quotation marks. Some other collaborations we had this year were Fendi x Fila, Kaws x Dior, H&M x Moschino, Nike x Ambush and from our local brands was a collaboration between Socky x Never Too Lavish. 
