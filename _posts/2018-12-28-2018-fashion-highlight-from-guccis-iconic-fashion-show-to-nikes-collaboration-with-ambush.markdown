@@ -82,8 +82,7 @@ Tracksuits have been trending too this year and the ones from the Adidas x Dani√
 Animal prints are big again, from leopard to snakeskin prints. These patterns are becoming a favorite for statement pieces. With the rise of streetwear brands like Kappa and its characteristic of the logo printed repetitively on the side of the garments, other brands are following suit. Because it is very liked by the market. 
 
 ## Favorite Brands
-![trend.png](/uploads/trend.png)
-
+![favorite-brands.png](/uploads/favorite-brands.png)
 Lastly, we have curated GABSTER Fashion Consulting's favorite brands of 2018. From the sports and streetwear side we have Nike, Adidas, and Kith.
 
 ![favorite-brands2.png](/uploads/favorite-brands2.png)
