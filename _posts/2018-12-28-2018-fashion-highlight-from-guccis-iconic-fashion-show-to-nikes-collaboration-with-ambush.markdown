@@ -43,3 +43,15 @@ One of the least expected collaborations was between Palace and Polo Ralph Laure
 Following their Spring/Summer 2018 collaboration, Supreme and Levis released a new exclusive collection for the Fall/Winter 2018 collection with six styles. Alexander Wang and Uniqlo also collaborated on creating a unisex line that used Heattech fabric and includes bodysuits, T-shirts, leggings, bras, and briefs for men and women. 
 
 The oddest collaboration though this year was by Ikea and Off-White. The range of furniture was designed by Virgil Abloh in which he added the signature Off-White quotation marks. Some other collaborations we had this year were Fendi x Fila, Kaws x Dior, H&M x Moschino, Nike x Ambush and from our local brands was a collaboration between Socky x Never Too Lavish. 
+
+## Important Markets
+![IMG_0363 (1).jpg](/uploads/IMG_0363%20(1).jpg)
+
+In 2018, we gained new important markets and brands are adapting to it. With the increase of modest wear, millennial Muslims are becoming a target. Modest wear has become increasingly popular, not only in the Middle East but also in Europe and America. There is a global demand now from people and millennial Muslims who want to dress modest and stylish.
+
+Chinese millennials are one of the most important market, especially for luxury brands. This year, it has been proven that they play a big role in the sales of luxury goods. 
+
+Millennial parents are also becoming an important target market. They enjoy dressing up their children and do not mind spending extra money to buy their children cute clothes. Not only that, but matching outfits between a parent and their child has also become a high demand.
+
+Now, is the time for brands to listen to the demands of the generation z. It is important to know how to approach them and brands need to adapt to that. The Tokyo Men fashion scene has become very popular this year and brands such as Dior has proven it by holding the pre-fall 2019 fashion show there. This market is becoming important for menswear and brands need to keep that in mind. 
+
