@@ -69,3 +69,18 @@ This year, several major shakeups happened in fashion. Chanel closed their headq
 
 Michael Kors acquired Versace for $2.12 billion as they aim to become America’s first-ever luxury conglomerate. Versace has been struggling to grow in business and Kors plans to increase Versace’s global retail footprint.
 
+A major shakeup from Indonesia, came from Mataharimall.com that closed down in November. Lippo Group then announced that the commerce will merge with Matahari Department Store on Matahari.com. 
+
+## Trend Recap
+![trend-recap.png](/uploads/trend-recap.png)
+
+We have analyzed this year's fashion trends and have recapped it for you. Chunky sneakers or Dad Sneakers have been very popular this year, alongside with the streetwear fashion. As for materials, PVC was seen a lot on runways and on the streets applied to garments and accessories. Dior's saddle bag also came back on trend. This trend came back with celebrities and influencers styling it in various styles. The bag itself has been reimagined this year for the first time by Kim Jones. 
+
+![trend-recap2.png](/uploads/trend-recap2.png)
+
+Tracksuits have been trending too this year and the ones from the Adidas x Daniëlle Cathari has been people's favorites. Soon after, tracksuits became a high demand. The checkerboard pattern and fanny pack have been trending quite some time now and this year is no difference. We will have to wait and see how long this trend will last. 
+
+![trend-recap3.png](/uploads/trend-recap3.png)
+
+Animal prints are big again, from leopard to snakeskin prints. These patterns are becoming a favorite for statement pieces. With the rise of streetwear brands like Kappa and its characteristic of the logo printed repetitively on the side of the garments, other brands are following suit. Because it is very liked by the market. 
+
