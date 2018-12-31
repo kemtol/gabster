@@ -90,4 +90,4 @@ Lastly, we have curated GABSTER Fashion Consulting's favorite brands of 2018. Fr
 Then, we have Fila and Champions. As for the more casual brand, our favorite this year is Uniqlo.
 
 ![favorite-brands3.png](/uploads/favorite-brands3.png)
-Now, for the more classic ones. This year has been big for Tommy Hilfiger, Fendi and Gucci and therefore they became our favorites.
+Now, for the more classic ones. This year has been big for Tommy Hilfiger, Fendi and Gucci and therefore they have become our favorites.
