@@ -55,3 +55,9 @@ Millennial parents are also becoming an important target market. They enjoy dres
 
 Now, is the time for brands to listen to the demands of the generation z. It is important to know how to approach them and brands need to adapt to that. The Tokyo Men fashion scene has become very popular this year and brands such as Dior has proven it by holding the pre-fall 2019 fashion show there. This market is becoming important for menswear and brands need to keep that in mind. 
 
+## Market Mindset Shift
+![YWRFYRKTPVAGVEEIIQC2QZ4A4I.jpg](/uploads/YWRFYRKTPVAGVEEIIQC2QZ4A4I.jpg)
+
+The market mindset has shifted in 2018 and many brands have adapted to that. Inclusivity has been one of the major topics this year and the market wants just that. This has been applied by Tommy Hilfiger by offering a line for people with disabilities and by lingerie lines such as Savage x Fenty by featuring a diversity of models.
+
+As a brand it is also important so support causes like Diesel‘s campaign that raises awareness on anti-bullying. Politic has spread to fashion and designers want to make a statement and promote human rights and environmental issues. With the rise of K-pop globally, Korean beauty is also loved by many. Lastly, people are becoming more conscious of climate change, therefore, sustainability is sought after.
