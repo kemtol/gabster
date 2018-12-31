@@ -83,3 +83,11 @@ Animal prints are big again, from leopard to snakeskin prints. These patterns ar
 
 ## Favorite Brands
 ![trend.png](/uploads/trend.png)
+
+Lastly, we have curated GABSTER Fashion Consulting's favorite brands of 2018. From the sports and streetwear side we have Nike, Adidas, and Kith.
+
+![favorite-brands2.png](/uploads/favorite-brands2.png)
+Then, we have Fila and Champions. As for the more casual brand, our favorite this year is Uniqlo.
+
+![favorite-brands3.png](/uploads/favorite-brands3.png)
+Now, for the more classic ones. This year has been big for Tommy Hilfiger, Fendi and Gucci and therefore they became our favorites.
