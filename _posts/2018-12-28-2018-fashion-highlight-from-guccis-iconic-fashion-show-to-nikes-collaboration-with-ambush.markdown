@@ -61,3 +61,11 @@ Now, is the time for brands to listen to the demands of the generation z. It is 
 The market mindset has shifted in 2018 and many brands have adapted to that. Inclusivity has been one of the major topics this year and the market wants just that. This has been applied by Tommy Hilfiger by offering a line for people with disabilities and by lingerie lines such as Savage x Fenty by featuring a diversity of models.
 
 As a brand it is also important so support causes like Diesel‘s campaign that raises awareness on anti-bullying. Politic has spread to fashion and designers want to make a statement and promote human rights and environmental issues. With the rise of K-pop globally, Korean beauty is also loved by many. Lastly, people are becoming more conscious of climate change, therefore, sustainability is sought after.
+
+## Major Shakeup
+![la-1537880060-fpbhfo0vr1-snap-image.jpeg](/uploads/la-1537880060-fpbhfo0vr1-snap-image.jpeg)
+
+This year, several major shakeups happened in fashion. Chanel closed their headquarter in New York as the company centralizes its global operations in London. Though this does not mean that Chanel will be closing its US operations, executives who oversee the US business will remain in its offices in the city but the majority of the global function is now based in London.
+
+Michael Kors acquired Versace for $2.12 billion as they aim to become America’s first-ever luxury conglomerate. Versace has been struggling to grow in business and Kors plans to increase Versace’s global retail footprint.
+
