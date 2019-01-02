@@ -18,9 +18,11 @@ Nike has collaborated with many brands last year and this year will be no differ
 
 ## What's Next for 2019
 ![5b115bfd1ae66220008b4594-750-563.jpg](/uploads/5b115bfd1ae66220008b4594-750-563.jpg)
-
 Artificial Intelligence is taking over and it has been applied in many retail stores. Several retailers have used smart fixtures that can also help track customer data as rails and displays are developed with tech elements. This will also help the retailer to ensure better operational efficiency. We can also expect more tech solutions for store collections and returns. Brands such as ZARA has already implemented this at their flagship store in London, where customers can scan their order QR code or provide a pin number to activate the automated warehouse which will then collect their purchase.
 
+![https___blogs-images.forbes.com_robcain_files_2015_06_Jack-Ma-Alibaba-Group (1).jpg](/uploads/https___blogs-images.forbes.com_robcain_files_2015_06_Jack-Ma-Alibaba-Group%20(1).jpg)
+Alibaba is one of the biggest e-commerce platforms and more brands are joining them. Their other platforms, Tao Bao and Pavilion has also been on the rise in 2018. Not long ago, Alibaba has signedan agreement with Belgium government to launch an e-commerce trade hub which will include investments in logistic infrastructure. This project is part of Alibaba’s Electronic World Trade Platform (eWTP). Alibaba’s logistic, Cainiao, will lease a logistic port at Belgium’s Liege airport and operations will begin in 2021. The company is confident that under the eWTP, they will open a huge potential for European businesses to enter the global market. Surely, this year will be no different for Alibaba as the company keeps on evolving.
 
-
+![zara-pop-up-012518.jpg](/uploads/zara-pop-up-012518.jpg)
+Retailers are implementing the online store experience to the offline store. To bring this to life, brands are giving experiences for their customers to the store. Such as a buy online, pick up in store service, create fun events and do installations that will attract visitors.
 
