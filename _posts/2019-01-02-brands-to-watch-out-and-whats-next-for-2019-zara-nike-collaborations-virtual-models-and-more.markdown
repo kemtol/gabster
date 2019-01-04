@@ -2,6 +2,7 @@
 title: 'Brands to Watch Out and What''s Next for 2019: Zara, Nike Collaborations,
   Virtual Models and More'
 date: 2019-01-02 04:55:00 Z
+author: Diandra Israhmaniar
 ---
 
 ![Layeur-at-The-Modis-_5-1600x1000.jpg](/uploads/Layeur-at-The-Modis-_5-1600x1000.jpg)
@@ -26,3 +27,8 @@ Alibaba is one of the biggest e-commerce platforms and more brands are joining t
 ![zara-pop-up-012518.jpg](/uploads/zara-pop-up-012518.jpg)
 Retailers are implementing the online store experience to the offline store. To bring this to life, brands are giving experiences for their customers to the store. Such as a buy online, pick up in store service, create fun events and do installations that will attract visitors.
 
+![balmain-1535650826.png](/uploads/balmain-1535650826.png)
+Virtual models and influencers are taking over social media and campaigns. When CGI influencer, Lil Miquela emerged on Instagram, people were confused and made theories about who she really is. Soon after, other virtual influencers joined Instagram. In September, Oliver Rousteing created a virtual version of the #BalmainArmy and it is clear that virtual models and influencers are the next big thing.
+
+![b9ca26e82dd6ae5be63b60c73804b8f4 (1).jpg](/uploads/b9ca26e82dd6ae5be63b60c73804b8f4%20(1).jpg)
+K-pop’s popularity has been on the rise globally and has affected social media trends, billboard charts and fashion. Fans of the music are highly enthusiastic in wanting to wear the same designers as the favorite K-pop idols, making K-pop stars “major global fashion influencers.” It is predicted that K-pop stars will continue to dominate fashion trends this year. That means more male makeup, unconventional T-shirt choices, brightly colored hair, and bold prints with clothes featuring cartoon or video game characters. 
