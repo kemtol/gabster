@@ -6,6 +6,7 @@ author: Diandra Israhmaniar
 ---
 
 ![Layeur-at-The-Modis-_5-1600x1000.jpg](/uploads/Layeur-at-The-Modis-_5-1600x1000.jpg)
+New year, new trends and new things to look forward to in fashion. GABSTER Fashion Consulting has summed up the things you will have to look forward to in 2019!
 
 ## Brands to Watch Out
 ![zara-signagebloomberg_1200xx4000-2255-0-0.jpg](/uploads/zara-signagebloomberg_1200xx4000-2255-0-0.jpg)
