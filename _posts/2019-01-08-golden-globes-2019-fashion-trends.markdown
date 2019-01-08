@@ -1,6 +1,7 @@
 ---
 title: Golden Globes 2019 Fashion Trends
 date: 2019-01-08 11:09:00 Z
+layout: post
 ---
 
 ![http___cdn.cnn.com_cnnnext_dam_assets_190106193339-04-golden-globes-fashion-2019.png](/uploads/http___cdn.cnn.com_cnnnext_dam_assets_190106193339-04-golden-globes-fashion-2019.png)
