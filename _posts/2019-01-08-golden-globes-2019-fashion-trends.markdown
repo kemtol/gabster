@@ -14,7 +14,8 @@ It was the Golden Globes 2019 and you know what that means. We had our eyes set 
 There is always that one color that stands out most on the red carpet and for this year's Golden Globes it was nude. Not just simply the color nude but in the shades of nude, beige, pink and cream.
 
 ## Princess Ballgowns
-
+![golden-globes2.png](/uploads/golden-globes2.png)
+Emmi Rossum, Kiki Layne, Constance Wu, and Alison Brie looked like they stepped out of a Disney movie with their princess ballgowns and people are loving it!
 
 
 
