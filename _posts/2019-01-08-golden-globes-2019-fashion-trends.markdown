@@ -1,6 +1,7 @@
 ---
 title: Golden Globes 2019 Fashion Trends
 date: 2019-01-08 11:09:00 Z
+permalink: "/golden-globes-2019-fashion-trends.html"
 layout: post
 ---
 
@@ -11,6 +12,8 @@ It was the Golden Globes 2019 and you know what that means. We had our eyes set 
 ## Shades of Nude
 ![golden-globes1.png](/uploads/golden-globes1.png)
 There is always that one color that stands out most on the red carpet and for this year's Golden Globes it was nude. Not just simply the color nude but in the shades of nude, beige, pink and cream.
+
+## Princess Ballgowns
 
 
 
