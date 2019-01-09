@@ -24,5 +24,6 @@ Bows were everywhere on the red carpet! Whether it was used as a hair accessory 
 ![golden-globes4.png](/uploads/golden-globes4.png)
 Leave it to velvet to give a luxurious touch to the red carpet. Celebrities from Taraji P. Henson to Ryan Seacrest wore velvet to steal the show. 
 
-
-
+## Shimmers 
+![golden-globes5.png](/uploads/golden-globes5.png)
+Lucy Boynton, Irina Shayk, Felicity Huffman, and Kristin Cavallari surely caught our attention with the gold and silver glittering metallic. 
