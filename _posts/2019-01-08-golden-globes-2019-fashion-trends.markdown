@@ -5,8 +5,7 @@ permalink: "/golden-globes-2019-fashion-trends.html"
 layout: post
 ---
 
-![http___cdn.cnn.com_cnnnext_dam_assets_190106193339-04-golden-globes-fashion-2019.png](/uploads/http___cdn.cnn.com_cnnnext_dam_assets_190106193339-04-golden-globes-fashion-2019.png)
-
+![ladygaga2.png](/uploads/ladygaga2.png)
 Golden Globes 2019 is here and you know what that means. We had our eyes set not only for the nominees but also for the fashion and beauty trend on the red carpet. Last year's Golden Globes was mostly filled with celebrities wearing the color black as a tribute to a campaign launched by some of Hollywood's most powerful women to combat sexual harassment across industries. Now, Hollywood's biggest stars arrived in bold and glamorous ensembles. GABSTER Fashion Consulting has curated the fashion trends spotted on the red carpet.
 
 ## Shades of Nude
@@ -17,9 +16,13 @@ There is always that one color that stands out most on the red carpet and for th
 ![golden-globes2.png](/uploads/golden-globes2.png)
 Emmi Rossum, Kiki Layne, Constance Wu, and Alison Brie looked like they stepped out of a Disney movie with their princess ballgowns and people are loving it!
 
+## Elegant Bows
+![golden-globes3.png](/uploads/golden-globes3.png)
+Bows were everywhere on the red carpet! Whether it was used as a hair accessory like what Nicole Kidman did or added on the back of the dress as seen on Gemma Chan, Dakota Fanning, and Penelope Cruz.
 
-
-
+## Velvet 
+![golden-globes4.png](/uploads/golden-globes4.png)
+Leave it to velvet to give a luxurious touch to the red carpet. Celebrities from Taraji P. Henson to Ryan Seacrest wore velvet to steal the show. 
 
 
 
