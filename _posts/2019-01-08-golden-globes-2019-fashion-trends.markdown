@@ -2,6 +2,7 @@
 title: Golden Globes 2019 Fashion Trends
 date: 2019-01-08 11:09:00 Z
 permalink: "/golden-globes-2019-fashion-trends.html"
+author: Diandra Israhmaniar
 layout: post
 ---
 
