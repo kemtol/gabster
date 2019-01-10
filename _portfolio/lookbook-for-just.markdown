@@ -7,7 +7,7 @@ categories:
 portfolioname: photowork
 punchline: Just - Serena Shades
 portfolioclient: Just
-coverimage: 
+coverimage: "/uploads/IMG_6751.JPG"
 layout: portfolio
 ---
 
