@@ -38,7 +38,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="row mt-100>
+        <div class="row mt-100">
             {% for brand in site.brands limit:10 | sort:"date" | reverse %}
             <div class="col-md-2"><img src="{{site.baseurl}}{{ brand.image }}" alt="" class="img-fluid"></div>
             {% endfor %}
