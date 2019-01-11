@@ -2,6 +2,9 @@
 title: Gabster
 timezone: UTC
 collections:
+  brands:
+    title: Brands
+    output: true
   featured-service:
     title: Featured Service
     output: true
