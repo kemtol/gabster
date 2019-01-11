@@ -30,18 +30,18 @@
             </div>            
         </div>
     </div>
-    <div class="container">
-        <div class="row mb-100">
-            <div class="col-12 clearfix">
-                <a href="{{site.baseurl}}/portfolio/" class="float-right btn btn-primary yellow-btn">VIEW MORE</a>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row mt-100">
+    <div class="container mt-100 mb-100">
+        <div class="row">
             {% for brand in site.brands limit:10 | sort:"date" | reverse %}
             <div class="col-md-2"><img src="{{site.baseurl}}{{ brand.image }}" alt="" class="img-fluid"></div>
             {% endfor %}
+        </div>
+    </div>
+    <div class="container">
+        <div>
+            <div class="col-12 clearfix">
+                <a href="{{site.baseurl}}/portfolio/" class="float-right btn btn-primary yellow-btn">VIEW MORE</a>
+            </div>
         </div>
     </div>
 </section>
