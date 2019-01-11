@@ -37,4 +37,11 @@
             </div>
         </div>
     </div>
+    <div class="container">
+        <div class="row">
+            {% for brand in site.brands limit:10 | sort:"date" | reverse %}
+            <div class="col-md-4"><img src="{{site.baseurl}}{{ brand.image }}" alt="" class="item-img"></div>
+            {% endfor %}
+        </div>
+    </div>
 </section>
