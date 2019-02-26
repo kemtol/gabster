@@ -43,7 +43,7 @@ This step in apparel manufacturing not only takes skill, but is very important i
 
 ![konveksi-garmen-cligeon-10.jpeg](/uploads/konveksi-garmen-cligeon-10.jpeg)
 
-Get the specifications for your target customer. Cost is based on number of pattern pieces in the style. With seasoned professionals who do this daily, we are sure to never miss the mark.
+Get the specifications for your target customer. Cost is based on the number of pattern pieces in the style. With seasoned professionals who do this daily, we are sure to never miss the mark.
 
 ---
 
@@ -52,16 +52,3 @@ Get the specifications for your target customer. Cost is based on number of patt
 ![konveksi-garmen-cligeon-6.jpeg](/uploads/konveksi-garmen-cligeon-6.jpeg)
 
 Each brand works with a personal production manager who is your point of contact throughout the entire manufacturing process. Our production managers provide guidance and support through all stages of apparel manufacturing. They will track and communicate each step of the production process and keep to strict deadlines to deliver the goods. We only partner with brands who have shared success in mind.
-
----
-
-## CASE STUDY: MASKOOLIN
-
-![Screenshot 2018-10-16 at 7.11.05 AM.png](/uploads/Screenshot%202018-10-16%20at%207.11.05%20AM.png)
-
-This is our case study for production, we keep everything on journal so you can learn from our experience.
-
-They need lorem ipsum dollor imet but is very important in creating a tangible representation of your vision. Today, we can digitize this technical request, but also typically create paper patterns too.
-
-They need lorem ipsum dollor imet but is very important in creating a tangible representation of your vision. Today, we can digitize this technical request, but also typically create paper patterns too.
-Utilize NeedleDress’s knowledge of popular sizing depending on the target customer. We strive to deliver a garment that fits perfectly, just as you envisioned. NeedleDress can work within your budget and timeframes, just simply reach out and put our service to the test.
