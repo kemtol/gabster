@@ -1,12 +1,14 @@
 ---
-title: Lookbook For ODIVA
+title: Bali Lookbook For ODIVA
 date: 2019-02-26 07:52:00 Z
+permalink: "/portfolio/bali-lookbook-for-odiva.html"
 categories:
 - photowork
 portfolioname: photowork
 punchline: ODIVA SS19
 portfolioclient: ODIVA
 coverimage: "/uploads/OdivaBali_84.jpg"
+layout: portfolio
 ---
 
 ODIVA is an Indonesian womenswear label that offers casual and chic clothes. The brand has been around for a while but is rebranding followed by the release of their SS19 collection. 
