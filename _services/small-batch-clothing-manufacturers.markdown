@@ -9,8 +9,7 @@ servicename: production
 layout: service
 ---
 
-![look-lanscape-production-6c6a69.jpg](/uploads/look-lanscape-production-6c6a69.jpg)
-
+![look-lanscape-production.jpg](/uploads/look-lanscape-production.jpg)
 ---
 
 ## We offer sample making and small quantity manufacturing with a minimum of 6 per style. Our expert will assist you in making your clothing or accessories for your brand. We specialize in womenswear, menswear, childrenswear, knit and woven.
