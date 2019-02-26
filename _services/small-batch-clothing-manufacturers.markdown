@@ -15,8 +15,8 @@ We offer sample making and small quantity manufacturing with a minimum of 6 per 
 ---
 
 ## Get your product ready in 3 steps
-1. Pick your fabric
-2. Make a pattern
+1. Create your design
+2. Pick a fabric
 3. We do the rest
 
 ---
@@ -25,7 +25,7 @@ We offer sample making and small quantity manufacturing with a minimum of 6 per 
 
 ![konveksi-garmen-cligeon-3.jpeg](/uploads/konveksi-garmen-cligeon-3.jpeg)
 
-GFC helps apparel designers improve quality and delegate global supply chain management.
+GFC works together with global suppliers to find the right fabric for your brand.
 
 ---
 
