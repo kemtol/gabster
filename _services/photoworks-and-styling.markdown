@@ -23,9 +23,9 @@ Our lookbook shoot package includes: model, make up artist, photographer, stylis
 ---
 
 ## Get your product and lookbook content in 4 step
-1. Contact us for booking
-2. Share your concept and ideas
-3. We will assist you to arrange all
+1. Share your ideas
+2. We will create a suitable concept
+3. We will arrange it all
 4. Get your editorial, lookbook, campaign ready!
 
 ---
