@@ -9,19 +9,18 @@ servicename: production
 layout: service
 ---
 
-![services - production.jpg](/uploads/services%20-%20production.jpg)
+![services-production.jpg](/images/services/service-1.jpg)
 ---
 
 We offer sample making and small quantity manufacturing with a minimum of 6 per style. Our expert will assist you in making your clothing or accessories for your brand. We specialize in womenswear, menswear, childrenswear, knit and woven.
 
 ---
-
-![look-landscape-DSC_2296-tes.jpg](/uploads/look-landscape-DSC_2296-tes.jpg)
+![look-lanscape-production.jpg](/uploads/look-lanscape-production.jpg)
 ---
 
 ## Get your product ready in 3 steps
-1. Pick your fabric
-2. Make a pattern
+1. Create your design
+2. Pick the fabric
 3. We do the rest
 
 ---
