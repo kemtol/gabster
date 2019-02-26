@@ -13,7 +13,7 @@ layout: service
 
 ---
 
-## We offer sample making and small quantity manufacturing with a minimum of 6 per style. Our expert will assist you in making your clothing or accessories for your brand. We specialize in womenswear, menswear, childrenswear, knit and woven.
+We offer sample making and small quantity manufacturing with a minimum of 6 per style. Our expert will assist you in making your clothing or accessories for your brand. We specialize in womenswear, menswear, childrenswear, knit and woven.
 
 ---
 
