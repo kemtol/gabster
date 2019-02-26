@@ -9,11 +9,10 @@ servicename: production
 layout: service
 ---
 
-![services-production.jpg](/images/services/service-1.jpg)
-
+![services - production.jpg](/uploads/services%20-%20production.jpg)
 ---
 
-We do sample making and small quantity manufacturing with a minimum of 6 per style. Our expert will assist you in making your clothing and or accessories brand come true. We are expert in all categories womenswear, menswear, childrenwear, knit, and woven.
+We offer sample making and small quantity manufacturing with a minimum of 6 per style. Our expert will assist you in making your clothing or accessories for your brand. We specialize in womenswear, menswear, childrenswear, knit and woven.
 
 ---
 
