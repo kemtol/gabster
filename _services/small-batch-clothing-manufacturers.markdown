@@ -16,7 +16,6 @@ We offer sample making and small quantity manufacturing with a minimum of 6 per 
 
 ---
 !![look-landscape-DSC_2296-tes.jpg](/uploads/look-landscape-DSC_2296-tes.jpg)
-[look-lanscape-production.jpg](/uploads/look-lanscape-production.jpg)
 ---
 
 ## Get your product ready in 3 steps
