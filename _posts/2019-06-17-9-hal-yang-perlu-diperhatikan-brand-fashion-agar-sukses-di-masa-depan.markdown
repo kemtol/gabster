@@ -1,5 +1,6 @@
 ---
-title: 9 Hal yang Perlu Diperhatikan Brand Fashion agar Sukses di Masa Depan
+title: 9 Hal yang Perlu Diperhatikan Brand Fashion agar Sukses di Masa Depan versi
+  Mary Meeker
 date: 2019-06-17 07:12:00 Z
 author: Katarina Anggiasinta
 ---
