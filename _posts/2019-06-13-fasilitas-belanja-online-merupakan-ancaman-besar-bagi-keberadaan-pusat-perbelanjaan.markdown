@@ -8,11 +8,10 @@ tags:
 Katarina Anggi: 
 ---
 
-Setiap individu pasti memiliki kenangan tersendiri jika membahas tentang department store karena fasilitas yang disediakannya pun beragam. Menyediakan kebutuhan konsumen dan segala sesuatu yang sedang popular pada masanya merupakan tujuan utama keberadaan pusat perbelanjaan di berbagai belahan dunia.
-
 ![2160285-gia-dinh-ly-hai-minh-ha-d-1.png](/uploads/2160285-gia-dinh-ly-hai-minh-ha-d-1.png)
 Keluarga yang berbelanja (foto: vtimes.com.au)
 
+Setiap individu pasti memiliki kenangan tersendiri jika membahas tentang department store karena fasilitas yang disediakannya pun beragam. Menyediakan kebutuhan konsumen dan segala sesuatu yang sedang popular pada masanya merupakan tujuan utama keberadaan pusat perbelanjaan di berbagai belahan dunia.
 
 Awal mula pusat perbelanjaan terinspirasi dari bangunan megah Eropa untuk menghandirkan daya tarik berupa kenyamanan one-stop shopping. Konsumen yang tidak memperoleh keinginannya bisa memesan langsung di toko dan akan langsung di telepon  ketika barang yang diinginkan sudah tersedia. Para karyawan di pusat perbelanjaan memiliki kebijakan untuk memastikan kepuasan pelanggan seperti contohnya memberikan bantuan bagi konsumen yang merasa bingung untuk memilih produk. Munculnya pusat perbelanjaan dan outlet menimbulkan persaingan harga dari satu tempat ke tempat lain yang berdampak pada kejayaannya masa itu.
 ![89976-karyawati-mal-menangis-melihat-anak-anak-yatim-belanja-baju-lebaran-facebookagus-penyoe.jpg](/uploads/89976-karyawati-mal-menangis-melihat-anak-anak-yatim-belanja-baju-lebaran-facebookagus-penyoe.jpg)
