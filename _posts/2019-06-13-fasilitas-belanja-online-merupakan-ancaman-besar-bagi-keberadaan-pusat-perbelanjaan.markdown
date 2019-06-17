@@ -9,6 +9,7 @@ Katarina Anggi:
 ---
 
 ![2160285-gia-dinh-ly-hai-minh-ha-d-1.png](/uploads/2160285-gia-dinh-ly-hai-minh-ha-d-1.png)
+
 Keluarga yang berbelanja (foto: vtimes.com.au)
 
 Setiap individu pasti memiliki kenangan tersendiri jika membahas tentang department store karena fasilitas yang disediakannya pun beragam. Menyediakan kebutuhan konsumen dan segala sesuatu yang sedang popular pada masanya merupakan tujuan utama keberadaan pusat perbelanjaan di berbagai belahan dunia.
