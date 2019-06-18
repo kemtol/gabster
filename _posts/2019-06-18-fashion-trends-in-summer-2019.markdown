@@ -12,6 +12,7 @@ author: Katarina Anggiasinta
 
 ![summer-01.jpg](/uploads/summer-01.jpg)
 Summer Illustration (photo: notlabelme.org)
+
 Summer is the season that many people are waiting for. Especially by people who live in countries with low average temperatures. Fashion brands welcome this summer with enthusiasm, seen from the special summer fashion trends. If you are excited about summer presence, prepare these five fashion items. Let you look more and more cheerful.
 
 1. Bucket Hat
@@ -69,4 +70,4 @@ Not only fashion trends in the '90s, but the trend of the' 80s also adorned the 
 Inspiration to use patchwork (photo: thetrendspotter.net)
 Maybe this fashion item is only seen as a handicraft made from leftover items. Even though this will look cool when designed by the right person. Patchwork can be found in various forms of clothing such as dresses, jackets, shirts, and pants.
 
-That's the eighth fashion item that will be trending in Gabster's 2019 version. From the fashion items above, which one might be your choice? Write in the comment column!
+That's the eighth fashion item that will be trending in Gabster's 2019 version. From the fashion items above, which one might be your choice? 
