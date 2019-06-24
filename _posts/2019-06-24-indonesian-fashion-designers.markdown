@@ -4,10 +4,10 @@ date: 2019-06-24 03:23:00 Z
 author: Katarina Anggiasinta
 ---
 
-* Rinaldi Yunardi
-
 ![1 rinaldy.jpg](/uploads/1%20rinaldy.jpg)
 Rinaldi Yunardi (photo: foto.kompas.com)
+
+* Rinaldi Yunardi
 Rinaldi Yunardi is a fashion and lighting designer from Jakarta. His career began in 1996, designing accessories (crowns) for weddings. In the twenty years of his career, he has collaborated with several well-known designers for runway shows. The designs have been used by several foreign artists such as Katy Perry, Dita Von Teese, Jolin Tsai, Erykah Badu, Ayumi Hamasaki, Aaron Kwok, Sammi Cheng, and many others. His latest achievement in 2018 is winning an award from MNC as a "Fashion Category Lifetime".
 ![1 mahkota Madonna oleh Rinaldy.jpg](/uploads/1%20mahkota%20Madonna%20oleh%20Rinaldy.jpg)
 Madonna wears Crown designed by Rinaldy (photo: neighbourlist.com)
