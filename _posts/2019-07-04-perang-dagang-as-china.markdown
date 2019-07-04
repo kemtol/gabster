@@ -25,25 +25,25 @@ Meski terkesan mengerikan untuk merek dari Amerika, namun rupanya perang dagang 
 Inilah beberapa negara yang dapat dijadikan sebagai produsen alternatif agar tidak terkena dampak perang dagang, 
 
 
-Vietnam
+**Vietnam**
 
 ![uniqlovietnam, DTiNews.vn.jpg](/uploads/uniqlovietnam,%20DTiNews.vn.jpg)
 Toko fisik Uniqlo pertama di Vietnam (foto: DTiNews.vn)
 Vietnam merupakan salah satu negara yang paling mumpuni untuk menjadi negara produsen pakaian pengganti Tiongkok. Predikat itu diberikan oleh Natixis SA berdasarkan faktor-faktor penting seperti upah, peringkat Bank Dunia, dan logistik. Selain karena pekerja yang terampil dan upah yang lebih rendah dari Tiongkok ($216 per bulan), Vietnam memiliki perdagangan bebas dengan berbagai negara pasar akhir seperti Australia, Kanada, Jepang, dan Singapura. Posisi negara yang berbatasan darat dengan Tiongkok juga memudahkan pemenuhan bahan baku. Menurut Priest, Vietnam adalah produsen alas kaki terbaik di Asia, bahkan Uniqlo telah memindahkan produksi alas kakinya dari Bangladesh ke Vietnam.
 
-Bangladesh
+**Bangladesh**
 
 ![140709-bangladesh2-editorial-1024x694.jpg](/uploads/140709-bangladesh2-editorial-1024x694.jpg)
 Pabrik pakaian di Bangladesh (foto: businessoffashion.com) 
 Selain Vietnam, Bangladesh juga menjadi salah satu negara terfavorit untuk memproduksi pakaian. Selain upah pekerja yang hanya $95 per bulan, kedatangan berbagai mesin canggih dan mahal serta pelatihan tenaga kerja yang meningkat juga turut meningkatkan kualitas produksi pakaian di Bangladesh. Meski begitu produksi di Bangladesh masih lebih lambat dari Vietnam karena mayoritas bahan baku masih harus diimpor dari Tiongkok. 
 
-Kamboja 
+**Kamboja** 
 
 ![kamboja, uangindonesiacom.jpg](/uploads/kamboja,%20uangindonesiacom.jpg)
 Kamboja (foto: uangindonesia.com)
 Di Asia Tenggara ada juga Kamboja yang 80 persen pendapatan ekspor nasionalnya berasal dari industri pakaian. Nilai tersebut menyebabkan pemerintah menerapkan kebijakan yang menguntukan di industri pakaian, salah satunya adalah pembebasan bea masuk atas mesin dan peralatan. Menurut Priest, walaupun tidak sebaik Vietnam, Kamboja tetap tumbuh dengan pesat karena berbagi pelabuhan dengan Vietnam, serta pekerja mereka diperlakukan dengan sangat baik. Penyebab lain kemajuan Kamboja dalam industri pakaian adalah penuhnya lahan di negara Vietnam, sehingga sebagian dialihkan ke Kamboja sebagai negara yang berbatasan langsung.
 
-Meksiko 
+**Meksiko **
 
 ![meksiko,internationalsindonewscom.jpg](/uploads/meksiko,internationalsindonewscom.jpg)
 Meksiko (foto: international.sindonews.com)
