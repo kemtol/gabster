@@ -29,9 +29,10 @@
 	{% endif %}
 	
 	<!-- declare javascript var from config.yml -->
-	<script type='text/javascript' > 
-		var siteWa = {{site.wa}}; 
+	<script type='text/javascript' >
+		var siteWa = {{site.wa}};
 	</script>
+	{% include fb-pixel.html %}
 </head>
 
 <body class="light-page">
